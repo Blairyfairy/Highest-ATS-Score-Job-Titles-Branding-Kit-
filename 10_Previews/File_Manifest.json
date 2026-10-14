@@ -1,422 +1,179 @@
-[
-  {
-    "file": "README.md",
-    "bytes": 2229
-  },
-  {
-    "file": "10_Previews/Professional_Brand_Kit_Contact_Sheet.jpg",
-    "bytes": 310573
-  },
-  {
-    "file": "03_Business_Cards/L3_Escalation_Business_Card_Front_1050x600.jpg",
-    "bytes": 113120
-  },
-  {
-    "file": "03_Business_Cards/Luxury_Technology_Business_Card_Front_1050x600.jpg",
-    "bytes": 115129
-  },
-  {
-    "file": "03_Business_Cards/Product_Business_Card_Back_1050x600.jpg",
-    "bytes": 69274
-  },
-  {
-    "file": "03_Business_Cards/L3_Escalation_Business_Card_Back_1050x600.jpg",
-    "bytes": 71058
-  },
-  {
-    "file": "03_Business_Cards/Linux_Engineer_Business_Card_Back_1050x600.jpg",
-    "bytes": 71093
-  },
-  {
-    "file": "03_Business_Cards/Linux_Applications_Business_Card_Back_1050x600.jpg",
-    "bytes": 77189
-  },
-  {
-    "file": "03_Business_Cards/Luxury_Technology_Business_Card_Back_1050x600.jpg",
-    "bytes": 72236
-  },
-  {
-    "file": "03_Business_Cards/L3_Enterprise_Business_Card_Front_1050x600.jpg",
-    "bytes": 111809
-  },
-  {
-    "file": "03_Business_Cards/Product_Business_Card_Front_1050x600.jpg",
-    "bytes": 109131
-  },
-  {
-    "file": "03_Business_Cards/Managed_Applications_Business_Card_Front_1050x600.jpg",
-    "bytes": 120341
-  },
-  {
-    "file": "03_Business_Cards/AWS_Cloud_Business_Card_Back_1050x600.jpg",
-    "bytes": 70600
-  },
-  {
-    "file": "03_Business_Cards/AWS_Cloud_Business_Card_Front_1050x600.jpg",
-    "bytes": 109905
-  },
-  {
-    "file": "03_Business_Cards/Luxury_Digital_Business_Card_Front_1050x600.jpg",
-    "bytes": 116623
-  },
-  {
-    "file": "03_Business_Cards/Technical_Account_Business_Card_Back_1050x600.jpg",
-    "bytes": 73099
-  },
-  {
-    "file": "03_Business_Cards/Commerce_Business_Card_Back_1050x600.jpg",
-    "bytes": 76770
-  },
-  {
-    "file": "03_Business_Cards/Technical_Account_Business_Card_Front_1050x600.jpg",
-    "bytes": 115444
-  },
-  {
-    "file": "03_Business_Cards/Managed_Applications_Business_Card_Back_1050x600.jpg",
-    "bytes": 76630
-  },
-  {
-    "file": "03_Business_Cards/Database_Business_Card_Back_1050x600.jpg",
-    "bytes": 68444
-  },
-  {
-    "file": "03_Business_Cards/Linux_Applications_Business_Card_Front_1050x600.jpg",
-    "bytes": 120378
-  },
-  {
-    "file": "03_Business_Cards/Linux_Engineer_Business_Card_Front_1050x600.jpg",
-    "bytes": 111590
-  },
-  {
-    "file": "03_Business_Cards/Commerce_Business_Card_Front_1050x600.jpg",
-    "bytes": 121019
-  },
-  {
-    "file": "03_Business_Cards/Database_Business_Card_Front_1050x600.jpg",
-    "bytes": 108208
-  },
-  {
-    "file": "03_Business_Cards/L3_Enterprise_Business_Card_Back_1050x600.jpg",
-    "bytes": 71092
-  },
-  {
-    "file": "03_Business_Cards/Luxury_Digital_Business_Card_Back_1050x600.jpg",
-    "bytes": 73723
-  },
-  {
-    "file": "01_Identity/Apple_Touch_180.png",
-    "bytes": 58212
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1600.png",
-    "bytes": 1859582
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_64.png",
-    "bytes": 9827
-  },
-  {
-    "file": "01_Identity/Favicon_48.png",
-    "bytes": 6012
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_400.png",
-    "bytes": 239701
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_256.png",
-    "bytes": 108975
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_512.png",
-    "bytes": 358912
-  },
-  {
-    "file": "01_Identity/Portrait_Master_Transparent.png",
-    "bytes": 1859582
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_128.png",
-    "bytes": 32246
-  },
-  {
-    "file": "01_Identity/Favicon_32.png",
-    "bytes": 3078
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_800.png",
-    "bytes": 710102
-  },
-  {
-    "file": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1024.png",
-    "bytes": 999700
-  },
-  {
-    "file": "11_Promotional/Media_One_Sheet_1200x1800.jpg",
-    "bytes": 297345
-  },
-  {
-    "file": "11_Promotional/Copy_Ready_Professional_Bios.md",
-    "bytes": 1356
-  },
-  {
-    "file": "11_Promotional/Profile_Promo_1080x1080.jpg",
-    "bytes": 169073
-  },
-  {
-    "file": "11_Promotional/Promo_Postcard_1800x1200.jpg",
-    "bytes": 264691
-  },
-  {
-    "file": "11_Promotional/Event_Sign_2400x1200.jpg",
-    "bytes": 337875
-  },
-  {
-    "file": "08_ATS_Data/All_500_Modeled_ATS_Titles.json",
-    "bytes": 56308
-  },
-  {
-    "file": "08_ATS_Data/Source_ATS_Differential.html",
-    "bytes": 66829
-  },
-  {
-    "file": "08_ATS_Data/Top_100_Percent_Titles.txt",
-    "bytes": 377
-  },
-  {
-    "file": "08_ATS_Data/All_500_Modeled_ATS_Titles.csv",
-    "bytes": 30173
-  },
-  {
-    "file": "08_ATS_Data/Source_Portfolio_Index.html",
-    "bytes": 887047
-  },
-  {
-    "file": "02_Social/Social_Link_Preview_1200x628.jpg",
-    "bytes": 121703
-  },
-  {
-    "file": "02_Social/L3_Enterprise_Social_Square_1080x1080.jpg",
-    "bytes": 173051
-  },
-  {
-    "file": "02_Social/Technical_Account_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 194460
-  },
-  {
-    "file": "02_Social/AWS_Cloud_Social_Square_1080x1080.jpg",
-    "bytes": 171949
-  },
-  {
-    "file": "02_Social/Database_Social_Square_1080x1080.jpg",
-    "bytes": 167491
-  },
-  {
-    "file": "02_Social/Managed_Applications_Social_Square_1080x1080.jpg",
-    "bytes": 184391
-  },
-  {
-    "file": "02_Social/Linux_Engineer_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 186053
-  },
-  {
-    "file": "02_Social/L3_Enterprise_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 185619
-  },
-  {
-    "file": "02_Social/Linux_Applications_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 194200
-  },
-  {
-    "file": "02_Social/Instagram_Story_1080x1920.jpg",
-    "bytes": 264186
-  },
-  {
-    "file": "02_Social/GitHub_Banner_1500x500.jpg",
-    "bytes": 116736
-  },
-  {
-    "file": "02_Social/Commerce_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 203226
-  },
-  {
-    "file": "02_Social/Luxury_Technology_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 195182
-  },
-  {
-    "file": "02_Social/Website_Hero_1920x1080.jpg",
-    "bytes": 257778
-  },
-  {
-    "file": "02_Social/L3_Escalation_Social_Square_1080x1080.jpg",
-    "bytes": 176566
-  },
-  {
-    "file": "02_Social/Video_Thumbnail_1920x1080.jpg",
-    "bytes": 257778
-  },
-  {
-    "file": "02_Social/Product_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 182187
-  },
-  {
-    "file": "02_Social/Commerce_Social_Square_1080x1080.jpg",
-    "bytes": 192714
-  },
-  {
-    "file": "02_Social/Luxury_Digital_Social_Square_1080x1080.jpg",
-    "bytes": 184812
-  },
-  {
-    "file": "02_Social/AWS_Cloud_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 182601
-  },
-  {
-    "file": "02_Social/Database_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 181881
-  },
-  {
-    "file": "02_Social/Linux_Applications_Social_Square_1080x1080.jpg",
-    "bytes": 183541
-  },
-  {
-    "file": "02_Social/Linux_Engineer_Social_Square_1080x1080.jpg",
-    "bytes": 173280
-  },
-  {
-    "file": "02_Social/LinkedIn_Cover_1584x396.jpg",
-    "bytes": 91673
-  },
-  {
-    "file": "02_Social/Technical_Account_Social_Square_1080x1080.jpg",
-    "bytes": 182588
-  },
-  {
-    "file": "02_Social/Managed_Applications_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 194750
-  },
-  {
-    "file": "02_Social/Product_Social_Square_1080x1080.jpg",
-    "bytes": 169547
-  },
-  {
-    "file": "02_Social/Luxury_Digital_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 197886
-  },
-  {
-    "file": "02_Social/L3_Escalation_Instagram_Portrait_1080x1350.jpg",
-    "bytes": 189507
-  },
-  {
-    "file": "02_Social/Luxury_Technology_Social_Square_1080x1080.jpg",
-    "bytes": 181756
-  },
-  {
-    "file": "04_Flyers_Posters/Linux_Applications_Print_Poster_1800x2400.jpg",
-    "bytes": 554432
-  },
-  {
-    "file": "04_Flyers_Posters/Linux_Engineer_Print_Poster_1800x2400.jpg",
-    "bytes": 524412
-  },
-  {
-    "file": "04_Flyers_Posters/Database_Print_Poster_1800x2400.jpg",
-    "bytes": 513441
-  },
-  {
-    "file": "04_Flyers_Posters/Managed_Applications_Print_Poster_1800x2400.jpg",
-    "bytes": 556435
-  },
-  {
-    "file": "04_Flyers_Posters/Luxury_Technology_Print_Poster_1800x2400.jpg",
-    "bytes": 538267
-  },
-  {
-    "file": "04_Flyers_Posters/Technical_Account_Print_Poster_1800x2400.jpg",
-    "bytes": 535626
-  },
-  {
-    "file": "04_Flyers_Posters/Luxury_Digital_Print_Poster_1800x2400.jpg",
-    "bytes": 542338
-  },
-  {
-    "file": "04_Flyers_Posters/L3_Enterprise_Print_Poster_1800x2400.jpg",
-    "bytes": 524184
-  },
-  {
-    "file": "04_Flyers_Posters/Product_Print_Poster_1800x2400.jpg",
-    "bytes": 516165
-  },
-  {
-    "file": "04_Flyers_Posters/Commerce_Print_Poster_1800x2400.jpg",
-    "bytes": 554554
-  },
-  {
-    "file": "04_Flyers_Posters/AWS_Cloud_Print_Poster_1800x2400.jpg",
-    "bytes": 519406
-  },
-  {
-    "file": "04_Flyers_Posters/L3_Escalation_Print_Poster_1800x2400.jpg",
-    "bytes": 531011
-  },
-  {
-    "file": "07_Presentation/Linux_Applications_Presentation_Slide_1920x1080.jpg",
-    "bytes": 287251
-  },
-  {
-    "file": "07_Presentation/AWS_Cloud_Presentation_Slide_1920x1080.jpg",
-    "bytes": 263501
-  },
-  {
-    "file": "07_Presentation/Managed_Applications_Presentation_Slide_1920x1080.jpg",
-    "bytes": 288770
-  },
-  {
-    "file": "07_Presentation/Commerce_Presentation_Slide_1920x1080.jpg",
-    "bytes": 289276
-  },
-  {
-    "file": "07_Presentation/Linux_Engineer_Presentation_Slide_1920x1080.jpg",
-    "bytes": 266662
-  },
-  {
-    "file": "07_Presentation/L3_Enterprise_Presentation_Slide_1920x1080.jpg",
-    "bytes": 266688
-  },
-  {
-    "file": "07_Presentation/Technical_Account_Presentation_Slide_1920x1080.jpg",
-    "bytes": 275203
-  },
-  {
-    "file": "07_Presentation/L3_Escalation_Presentation_Slide_1920x1080.jpg",
-    "bytes": 273238
-  },
-  {
-    "file": "07_Presentation/Luxury_Digital_Presentation_Slide_1920x1080.jpg",
-    "bytes": 279511
-  },
-  {
-    "file": "07_Presentation/Luxury_Technology_Presentation_Slide_1920x1080.jpg",
-    "bytes": 275483
-  },
-  {
-    "file": "07_Presentation/Product_Presentation_Slide_1920x1080.jpg",
-    "bytes": 260318
-  },
-  {
-    "file": "07_Presentation/Database_Presentation_Slide_1920x1080.jpg",
-    "bytes": 257752
-  },
-  {
-    "file": "05_Stationery/US_Letterhead_2550x3300.jpg",
-    "bytes": 820426
-  },
-  {
-    "file": "09_Brand_Guidelines/Brand_Standards.md",
-    "bytes": 1182
-  },
-  {
-    "file": "06_Web/index.html",
-    "bytes": 1703
-  }
-]
+{
+  "edition": "Blair Page Signature Professional Brand System 2026",
+  "files": [
+    "00_START_HERE/Portfolio_Link_Directory.csv",
+    "00_START_HERE/Portfolio_Link_Directory.json",
+    "00_START_HERE/QUICK_START.md",
+    "01_Identity/Apple_Touch_180.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1024.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_128.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1600.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_180.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_192.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_2048.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_256.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_32.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_400.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_48.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_512.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_64.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_800.png",
+    "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_96.png",
+    "01_Identity/Favicon_32.png",
+    "01_Identity/Favicon_48.png",
+    "01_Identity/Portrait_Master_Transparent.png",
+    "02_Social/AWS_Cloud_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/AWS_Cloud_Social_Square_1080x1080.jpg",
+    "02_Social/Commerce_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Commerce_Social_Square_1080x1080.jpg",
+    "02_Social/Database_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Database_Social_Square_1080x1080.jpg",
+    "02_Social/GitHub_Banner_1500x500.jpg",
+    "02_Social/Instagram_Story_1080x1920.jpg",
+    "02_Social/L3_Enterprise_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/L3_Enterprise_Social_Square_1080x1080.jpg",
+    "02_Social/L3_Escalation_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/L3_Escalation_Social_Square_1080x1080.jpg",
+    "02_Social/LinkedIn_Cover_1584x396.jpg",
+    "02_Social/Linux_Applications_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Linux_Applications_Social_Square_1080x1080.jpg",
+    "02_Social/Linux_Engineer_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Linux_Engineer_Social_Square_1080x1080.jpg",
+    "02_Social/Luxury_Digital_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Luxury_Digital_Social_Square_1080x1080.jpg",
+    "02_Social/Luxury_Technology_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Luxury_Technology_Social_Square_1080x1080.jpg",
+    "02_Social/Managed_Applications_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Managed_Applications_Social_Square_1080x1080.jpg",
+    "02_Social/Product_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Product_Social_Square_1080x1080.jpg",
+    "02_Social/Social_Link_Preview_1200x628.jpg",
+    "02_Social/Technical_Account_Instagram_Portrait_1080x1350.jpg",
+    "02_Social/Technical_Account_Social_Square_1080x1080.jpg",
+    "02_Social/Video_Thumbnail_1920x1080.jpg",
+    "02_Social/Website_Hero_1920x1080.jpg",
+    "03_Business_Cards/AWS_Cloud_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/AWS_Cloud_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Commerce_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Commerce_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Database_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Database_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/L3_Enterprise_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/L3_Enterprise_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/L3_Escalation_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/L3_Escalation_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Linux_Applications_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Linux_Applications_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Linux_Engineer_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Linux_Engineer_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Luxury_Digital_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Luxury_Digital_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Luxury_Technology_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Luxury_Technology_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Managed_Applications_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Managed_Applications_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Product_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Product_Business_Card_Front_1050x600.jpg",
+    "03_Business_Cards/Technical_Account_Business_Card_Back_1050x600.jpg",
+    "03_Business_Cards/Technical_Account_Business_Card_Front_1050x600.jpg",
+    "04_Flyers_Posters/AWS_Cloud_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Commerce_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Database_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/L3_Enterprise_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/L3_Escalation_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Linux_Applications_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Linux_Engineer_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Luxury_Digital_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Luxury_Technology_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Managed_Applications_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Product_Print_Poster_1800x2400.jpg",
+    "04_Flyers_Posters/Technical_Account_Print_Poster_1800x2400.jpg",
+    "05_Stationery/US_Letterhead_2550x3300.jpg",
+    "06_Web/index.html",
+    "07_Presentation/AWS_Cloud_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Commerce_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Database_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/L3_Enterprise_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/L3_Escalation_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Linux_Applications_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Linux_Engineer_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Luxury_Digital_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Luxury_Technology_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Managed_Applications_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Product_Presentation_Slide_1920x1080.jpg",
+    "07_Presentation/Technical_Account_Presentation_Slide_1920x1080.jpg",
+    "08_ATS_Data/ATS_Positioning_Matrix.md",
+    "08_ATS_Data/All_500_Modeled_ATS_Titles.csv",
+    "08_ATS_Data/All_500_Modeled_ATS_Titles.json",
+    "08_ATS_Data/README.md",
+    "08_ATS_Data/Source_Portfolio_Index.html",
+    "08_ATS_Data/Top_Role_Title_Directions.txt",
+    "09_Brand_Guidelines/Brand_Positioning_Editorial.md",
+    "09_Brand_Guidelines/Brand_Standards.md",
+    "10_Previews/File_Manifest.json",
+    "10_Previews/Professional_Brand_Kit_Contact_Sheet.jpg",
+    "11_Promotional/Copy_Ready_Professional_Bios.md",
+    "11_Promotional/Event_Sign_2400x1200.jpg",
+    "11_Promotional/Media_One_Sheet_1200x1800.jpg",
+    "11_Promotional/Profile_Promo_1080x1080.jpg",
+    "11_Promotional/Promo_Postcard_1800x1200.jpg",
+    "13_Logo_System/BlairPageLogo.png",
+    "13_Logo_System/BlairPageLogoIcon.jpg",
+    "13_Logo_System/Favicon.png",
+    "13_Logo_System/Gemstone_1024.png",
+    "13_Logo_System/Gemstone_128.png",
+    "13_Logo_System/Gemstone_180.png",
+    "13_Logo_System/Gemstone_256.png",
+    "13_Logo_System/Gemstone_32.png",
+    "13_Logo_System/Gemstone_48.png",
+    "13_Logo_System/Gemstone_512.png",
+    "13_Logo_System/Gemstone_64.png",
+    "13_Logo_System/Logo_Usage.md",
+    "13_Logo_System/Wordmark_Dark.svg",
+    "13_Logo_System/apple-touch-icon.png",
+    "14_Design_Tokens/brand.css",
+    "14_Design_Tokens/figma-color-import.csv",
+    "14_Design_Tokens/tailwind-theme.json",
+    "14_Design_Tokens/tokens.json",
+    "14_Design_Tokens/typography.md",
+    "15_Templates_Editable/Email_Signature.html",
+    "15_Templates_Editable/Letterhead_Template.html",
+    "15_Templates_Editable/Professional_Headline_Copy.md",
+    "15_Templates_Editable/Social_Card_Template.svg",
+    "16_Iconography/Gem_Favicon_128.png",
+    "16_Iconography/Gem_Favicon_16.png",
+    "16_Iconography/Gem_Favicon_180.png",
+    "16_Iconography/Gem_Favicon_192.png",
+    "16_Iconography/Gem_Favicon_256.png",
+    "16_Iconography/Gem_Favicon_32.png",
+    "16_Iconography/Gem_Favicon_48.png",
+    "16_Iconography/Gem_Favicon_512.png",
+    "16_Iconography/Gem_Favicon_64.png",
+    "16_Iconography/ICON_DIRECTORY.md",
+    "16_Iconography/Professional_briefcase.svg",
+    "16_Iconography/Professional_chart.svg",
+    "16_Iconography/Professional_cloud.svg",
+    "16_Iconography/Professional_code.svg",
+    "16_Iconography/Professional_commerce.svg",
+    "16_Iconography/Professional_database.svg",
+    "16_Iconography/Professional_email.svg",
+    "16_Iconography/Professional_fashion.svg",
+    "16_Iconography/Professional_globe.svg",
+    "16_Iconography/Professional_linux.svg",
+    "16_Iconography/Professional_network.svg",
+    "16_Iconography/Professional_product.svg",
+    "16_Iconography/Professional_server.svg",
+    "16_Iconography/Professional_shield.svg",
+    "16_Iconography/favicon.ico",
+    "16_Iconography/site.webmanifest",
+    "17_Swatches/Brand_Color_Swatch_Sheet.png",
+    "18_Repository_Config/.gitignore",
+    "18_Repository_Config/CONTRIBUTING.md",
+    "18_Repository_Config/LICENSE-ASSETS.md",
+    "19_QR_Codes/ATS_Titles_QR.png",
+    "19_QR_Codes/Portfolio_QR.png",
+    "20_Audits/File_Manifest_SHA256.json",
+    "20_Audits/Portrait_And_Data_Audit.md",
+    "README.md"
+  ]
+}

@@ -17,4 +17,4 @@ https://blairyfairy.github.io/BlairPage/
 https://blairyfairy.github.io/BlairPage/Blairs_Job_Titles_ATS.html
 
 ## Evidence rules
-Do not claim formal staff management, direct reports, mentoring or completed degree/certification unless independently evidenced. ATS scores are modeled estimates only.
+Do not claim formal staff management, direct reports, mentoring or completed degree/certification unless independently evidenced. career-focused are modeled estimates only.

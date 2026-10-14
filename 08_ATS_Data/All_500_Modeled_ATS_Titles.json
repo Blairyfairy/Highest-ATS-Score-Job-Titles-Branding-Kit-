@@ -1,3002 +1,1502 @@
 [
   {
-    "t": "Enterprise L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Enterprise L3 Support Engineer"
   },
   {
-    "t": "Escalation L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Escalation L3 Support Engineer"
   },
   {
-    "t": "Global L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Global L3 Support Engineer"
   },
   {
-    "t": "L3 Linux Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "L3 Linux Managed Applications Support Engineer"
   },
   {
-    "t": "Lead L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 1
+    "title": "Lead L3 Support Engineer"
   },
   {
-    "t": "Liquid Web L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Liquid Web L3 Support Engineer"
   },
   {
-    "t": "Principal L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 1
+    "title": "Principal L3 Support Engineer"
   },
   {
-    "t": "Production L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Production L3 Support Engineer"
   },
   {
-    "t": "Senior L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 1
+    "title": "Senior L3 Support Engineer"
   },
   {
-    "t": "Staff L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 1
+    "title": "Staff L3 Support Engineer"
   },
   {
-    "t": "Tier-3 L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Tier-3 L3 Support Engineer"
   },
   {
-    "t": "Tier-3 Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 100,
-    "sr": 0
+    "title": "Tier-3 Managed Applications Support Engineer"
   },
   {
-    "t": "Enterprise Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Enterprise Managed Applications Support Engineer"
   },
   {
-    "t": "Enterprise RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "Enterprise RHCE Linux Engineer"
   },
   {
-    "t": "Escalation Engineer \u2014 Managed Hosting",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Escalation Engineer \u2014 Managed Hosting"
   },
   {
-    "t": "Escalation Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Escalation Managed Applications Support Engineer"
   },
   {
-    "t": "Escalation RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "Escalation RHCE Linux Engineer"
   },
   {
-    "t": "Global Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Global Managed Applications Support Engineer"
   },
   {
-    "t": "Global RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "Global RHCE Linux Engineer"
   },
   {
-    "t": "Lead Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 1
+    "title": "Lead Managed Applications Support Engineer"
   },
   {
-    "t": "Lead RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 1
+    "title": "Lead RHCE Linux Engineer"
   },
   {
-    "t": "Nexcess CloudSites Support Specialist",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Nexcess CloudSites Support Specialist"
   },
   {
-    "t": "Principal Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 1
+    "title": "Principal Managed Applications Support Engineer"
   },
   {
-    "t": "Principal RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 1
+    "title": "Principal RHCE Linux Engineer"
   },
   {
-    "t": "Production Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Production Managed Applications Support Engineer"
   },
   {
-    "t": "Production RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "Production RHCE Linux Engineer"
   },
   {
-    "t": "RHCE Linux Systems Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "RHCE Linux Systems Engineer"
   },
   {
-    "t": "Remote L3 Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 0
+    "title": "Remote L3 Support Engineer"
   },
   {
-    "t": "Senior Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 1
+    "title": "Senior Linux Systems Administrator"
   },
   {
-    "t": "Senior Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 1
+    "title": "Senior Managed Applications Support Engineer"
   },
   {
-    "t": "Senior Managed Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 1
+    "title": "Senior Managed Hosting Support Engineer"
   },
   {
-    "t": "Senior RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 1
+    "title": "Senior RHCE Linux Engineer"
   },
   {
-    "t": "Staff Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 99,
-    "sr": 1
+    "title": "Staff Managed Applications Support Engineer"
   },
   {
-    "t": "Staff RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 1
+    "title": "Staff RHCE Linux Engineer"
   },
   {
-    "t": "Tier-3 RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 99,
-    "sr": 0
+    "title": "Tier-3 RHCE Linux Engineer"
   },
   {
-    "t": "Enterprise Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Enterprise Hosting Support Engineer"
   },
   {
-    "t": "Enterprise Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Enterprise Linux Systems Administrator"
   },
   {
-    "t": "Enterprise MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Enterprise MySQL DBA"
   },
   {
-    "t": "Enterprise Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Enterprise Percona DBA"
   },
   {
-    "t": "Escalation Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Escalation Hosting Support Engineer"
   },
   {
-    "t": "Escalation Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Escalation Linux Systems Administrator"
   },
   {
-    "t": "Escalation MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Escalation MySQL DBA"
   },
   {
-    "t": "Escalation Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Escalation Percona DBA"
   },
   {
-    "t": "Global Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Global Hosting Support Engineer"
   },
   {
-    "t": "Global Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Global Linux Systems Administrator"
   },
   {
-    "t": "Global MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Global MySQL DBA"
   },
   {
-    "t": "Global Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Global Percona DBA"
   },
   {
-    "t": "Lead Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Lead Hosting Support Engineer"
   },
   {
-    "t": "Lead Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 1
+    "title": "Lead Linux Systems Administrator"
   },
   {
-    "t": "Lead MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Lead MySQL DBA"
   },
   {
-    "t": "Lead Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Lead Percona DBA"
   },
   {
-    "t": "MySQL / Percona Database Administrator",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "MySQL / Percona Database Administrator"
   },
   {
-    "t": "Percona XtraDB Cluster / Galera HA Specialist",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Percona XtraDB Cluster / Galera HA Specialist"
   },
   {
-    "t": "Principal Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Principal Hosting Support Engineer"
   },
   {
-    "t": "Principal Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 1
+    "title": "Principal Linux Systems Administrator"
   },
   {
-    "t": "Principal MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Principal MySQL DBA"
   },
   {
-    "t": "Principal Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Principal Percona DBA"
   },
   {
-    "t": "Production Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Production Hosting Support Engineer"
   },
   {
-    "t": "Production Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Production Linux Systems Administrator"
   },
   {
-    "t": "Production MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Production MySQL DBA"
   },
   {
-    "t": "Production Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Production Percona DBA"
   },
   {
-    "t": "Production Support Engineer \u2014 Managed Apps",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Production Support Engineer \u2014 Managed Apps"
   },
   {
-    "t": "Remote Managed Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Remote Managed Applications Support Engineer"
   },
   {
-    "t": "Remote RHCE Linux Engineer",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Remote RHCE Linux Engineer"
   },
   {
-    "t": "Senior Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Senior Hosting Support Engineer"
   },
   {
-    "t": "Senior Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Senior Managed Services Engineer"
   },
   {
-    "t": "Senior MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Senior MySQL DBA"
   },
   {
-    "t": "Senior Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Senior Percona DBA"
   },
   {
-    "t": "Staff Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Staff Hosting Support Engineer"
   },
   {
-    "t": "Staff Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 1
+    "title": "Staff Linux Systems Administrator"
   },
   {
-    "t": "Staff MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Staff MySQL DBA"
   },
   {
-    "t": "Staff Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Staff Percona DBA"
   },
   {
-    "t": "Tier-3 Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Tier-3 Hosting Support Engineer"
   },
   {
-    "t": "Tier-3 Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Tier-3 Linux Systems Administrator"
   },
   {
-    "t": "Tier-3 MySQL DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Tier-3 MySQL DBA"
   },
   {
-    "t": "Tier-3 Percona DBA",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Tier-3 Percona DBA"
   },
   {
-    "t": "Senior Linux Managed Hosting Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Senior Linux Managed Hosting Engineer"
   },
   {
-    "t": "Enterprise Hosting Escalation Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Enterprise Hosting Escalation Engineer"
   },
   {
-    "t": "Managed WordPress Support Lead",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Managed WordPress Support Lead"
   },
   {
-    "t": "L3 Cloud Applications Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "L3 Cloud Applications Support Engineer"
   },
   {
-    "t": "Linux Applications Escalation Specialist",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Linux Applications Escalation Specialist"
   },
   {
-    "t": "Technical Support Lead \u2014 Hosting",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 1
+    "title": "Technical Support Lead \u2014 Hosting"
   },
   {
-    "t": "Cloud Hosting Solutions Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Cloud Hosting Solutions Engineer"
   },
   {
-    "t": "Linux Platform Support Specialist",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Linux Platform Support Specialist"
   },
   {
-    "t": "Hosting Reliability Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 98,
-    "sr": 0
+    "title": "Hosting Reliability Support Engineer"
   },
   {
-    "t": "Database Support Engineer \u2014 MySQL",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "Database Support Engineer \u2014 MySQL"
   },
   {
-    "t": "MySQL & Percona Support Engineer",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 0
+    "title": "MySQL & Percona Support Engineer"
   },
   {
-    "t": "Senior MySQL Support Engineer",
-    "c": "Database / DBA",
-    "s": 98,
-    "sr": 1
+    "title": "Senior MySQL Support Engineer"
   },
   {
-    "t": "WordPress Hosting Solutions Specialist",
-    "c": "CMS / E-commerce",
-    "s": 98,
-    "sr": 0
+    "title": "WordPress Hosting Solutions Specialist"
   },
   {
-    "t": "WordPress & WooCommerce Technical Specialist",
-    "c": "CMS / E-commerce",
-    "s": 98,
-    "sr": 0
+    "title": "WordPress & WooCommerce Technical Specialist"
   },
   {
-    "t": "AWS Cloud Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "AWS Cloud Support Engineer"
   },
   {
-    "t": "Cloud Infrastructure Support Specialist",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Cloud Infrastructure Support Specialist"
   },
   {
-    "t": "AWS Solutions Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "AWS Solutions Support Engineer"
   },
   {
-    "t": "Hybrid Cloud Operations Specialist",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Hybrid Cloud Operations Specialist"
   },
   {
-    "t": "Cloud Platform Technical Specialist",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Cloud Platform Technical Specialist"
   },
   {
-    "t": "AWS Application Operations Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "AWS Application Operations Engineer"
   },
   {
-    "t": "Cloud Services Support Lead",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 1
+    "title": "Cloud Services Support Lead"
   },
   {
-    "t": "Cloud Infrastructure Solutions Consultant",
-    "c": "AWS / Cloud Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Cloud Infrastructure Solutions Consultant"
   },
   {
-    "t": "Linux Systems Support Engineer",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Linux Systems Support Engineer"
   },
   {
-    "t": "Linux Infrastructure Operations Specialist",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Linux Infrastructure Operations Specialist"
   },
   {
-    "t": "Red Hat Linux Support Engineer",
-    "c": "Linux Ops",
-    "s": 98,
-    "sr": 0
+    "title": "Red Hat Linux Support Engineer"
   },
   {
-    "t": "Enterprise Luxury Brand Technical Account Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise Luxury Brand Technical Account Manager"
   },
   {
-    "t": "Global Luxury Brand Technical Account Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Global Luxury Brand Technical Account Manager"
   },
   {
-    "t": "Regional Luxury Brand Technical Account Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Regional Luxury Brand Technical Account Manager"
   },
   {
-    "t": "Senior Luxury Brand Technical Account Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Senior Luxury Brand Technical Account Manager"
   },
   {
-    "t": "Luxury Retail Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Retail Operations Manager"
   },
   {
-    "t": "Luxury Brand Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Brand Operations Manager"
   },
   {
-    "t": "Luxury E-Commerce Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury E-Commerce Operations Manager"
   },
   {
-    "t": "Luxury Client Experience Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Client Experience Manager"
   },
   {
-    "t": "Luxury Digital Commerce Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Digital Commerce Manager"
   },
   {
-    "t": "Luxury Product Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Product Operations Manager"
   },
   {
-    "t": "Luxury Brand Experience Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Brand Experience Coordinator"
   },
   {
-    "t": "Luxury E-Commerce Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury E-Commerce Coordinator"
   },
   {
-    "t": "Luxury Retail Technology Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Retail Technology Specialist"
   },
   {
-    "t": "Luxury Omnichannel Operations Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Omnichannel Operations Specialist"
   },
   {
-    "t": "Luxury Customer Experience Operations Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Customer Experience Operations Specialist"
   },
   {
-    "t": "Luxury Brand Systems Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Brand Systems Coordinator"
   },
   {
-    "t": "Fashion Digital Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Fashion Digital Operations Manager"
   },
   {
-    "t": "Luxury Merchandising Operations Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Merchandising Operations Coordinator"
   },
   {
-    "t": "Luxury Client Services Operations Lead",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Client Services Operations Lead"
   },
   {
-    "t": "Luxury Website Operations Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Website Operations Manager"
   },
   {
-    "t": "Luxury Digital Merchandising Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Digital Merchandising Specialist"
   },
   {
-    "t": "Luxury Retail Systems Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Retail Systems Coordinator"
   },
   {
-    "t": "Luxury Brand Project Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Brand Project Coordinator"
   },
   {
-    "t": "Fashion Product Content Operations Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Fashion Product Content Operations Specialist"
   },
   {
-    "t": "Luxury Customer Support Operations Lead",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Customer Support Operations Lead"
   },
   {
-    "t": "Luxury CRM & E-Commerce Operations Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury CRM & E-Commerce Operations Specialist"
   },
   {
-    "t": "Luxury Inventory Systems Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Inventory Systems Coordinator"
   },
   {
-    "t": "Luxury Retail Technology Operations Lead",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Retail Technology Operations Lead"
   },
   {
-    "t": "Luxury Brand Digital Project Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Brand Digital Project Manager"
   },
   {
-    "t": "Luxury E-Commerce Product Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury E-Commerce Product Manager"
   },
   {
-    "t": "Luxury Online Store Operations Lead",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Online Store Operations Lead"
   },
   {
-    "t": "Luxury Customer Journey Product Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Customer Journey Product Specialist"
   },
   {
-    "t": "Premium Retail Operations Lead",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Premium Retail Operations Lead"
   },
   {
-    "t": "Luxury Digital Experience Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Luxury Digital Experience Coordinator"
   },
   {
-    "t": "Luxury Brand Support Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Luxury Brand Support Manager"
   },
   {
-    "t": "Stock Control Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Stock Control Manager"
   },
   {
-    "t": "Inventory Systems Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Inventory Systems Manager"
   },
   {
-    "t": "Retail Inventory Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Retail Inventory Coordinator"
   },
   {
-    "t": "Inventory Accuracy Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Accuracy Specialist"
   },
   {
-    "t": "Stockroom Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Stockroom Operations Manager"
   },
   {
-    "t": "Inventory Control Supervisor",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Control Supervisor"
   },
   {
-    "t": "Inventory Reporting Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Reporting Analyst"
   },
   {
-    "t": "Stock Reconciliation Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Stock Reconciliation Specialist"
   },
   {
-    "t": "Retail Operations & Inventory Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Retail Operations & Inventory Manager"
   },
   {
-    "t": "Inventory Process Improvement Lead",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Inventory Process Improvement Lead"
   },
   {
-    "t": "Inventory Data Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Data Coordinator"
   },
   {
-    "t": "Retail Stock Operations Lead",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Retail Stock Operations Lead"
   },
   {
-    "t": "Inventory & Merchandising Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory & Merchandising Coordinator"
   },
   {
-    "t": "POS & Inventory Systems Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "POS & Inventory Systems Coordinator"
   },
   {
-    "t": "Retail Inventory Systems Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Retail Inventory Systems Analyst"
   },
   {
-    "t": "Inventory Management Systems Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Management Systems Specialist"
   },
   {
-    "t": "Stock Availability Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Stock Availability Analyst"
   },
   {
-    "t": "Inventory Support Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Support Specialist"
   },
   {
-    "t": "Inventory Workflow Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Workflow Specialist"
   },
   {
-    "t": "Inventory Data Quality Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Data Quality Analyst"
   },
   {
-    "t": "Stock Planning Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Stock Planning Coordinator"
   },
   {
-    "t": "Inventory Technology Project Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Technology Project Coordinator"
   },
   {
-    "t": "Inventory Applications Support Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Applications Support Specialist"
   },
   {
-    "t": "E-Commerce Inventory Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "E-Commerce Inventory Coordinator"
   },
   {
-    "t": "Retail Systems & Stock Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Retail Systems & Stock Specialist"
   },
   {
-    "t": "Stock Operations Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Stock Operations Analyst"
   },
   {
-    "t": "Inventory Process Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Process Coordinator"
   },
   {
-    "t": "Inventory Integration Support Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Inventory Integration Support Specialist"
   },
   {
-    "t": "Inventory Operations Project Lead",
-    "c": "Stock / Inventory Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Inventory Operations Project Lead"
   },
   {
-    "t": "AI Product Manager (MBA Track)",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "AI Product Manager (MBA Track)"
   },
   {
-    "t": "Enterprise AI Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise AI Product Manager"
   },
   {
-    "t": "Enterprise Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Global AI Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Global AI Product Manager"
   },
   {
-    "t": "Global Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Global Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Lead AI Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Lead AI Product Manager"
   },
   {
-    "t": "Lead Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Lead Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Senior AI Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Senior AI Product Manager"
   },
   {
-    "t": "Senior Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Senior Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Digital Product Manager"
   },
   {
-    "t": "Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Product Manager"
   },
   {
-    "t": "E-Commerce Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "E-Commerce Product Manager"
   },
   {
-    "t": "Product Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Operations Manager"
   },
   {
-    "t": "Digital Experience Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Digital Experience Product Manager"
   },
   {
-    "t": "Website Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Website Product Manager"
   },
   {
-    "t": "Product Owner \u2014 E-Commerce",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Product Owner \u2014 E-Commerce"
   },
   {
-    "t": "Product Owner \u2014 Web Platforms",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Product Owner \u2014 Web Platforms"
   },
   {
-    "t": "Product Manager \u2014 Customer Experience",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Manager \u2014 Customer Experience"
   },
   {
-    "t": "Product Manager \u2014 Platform Operations",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Manager \u2014 Platform Operations"
   },
   {
-    "t": "Product Manager \u2014 Website Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Manager \u2014 Website Modernization"
   },
   {
-    "t": "Product Manager \u2014 Digital Commerce",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Manager \u2014 Digital Commerce"
   },
   {
-    "t": "Product Operations Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Product Operations Specialist"
   },
   {
-    "t": "Digital Project Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Digital Project Manager"
   },
   {
-    "t": "Web Platform Project Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Web Platform Project Manager"
   },
   {
-    "t": "Front-End Modernization Project Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Front-End Modernization Project Manager"
   },
   {
-    "t": "Customer Journey Product Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Customer Journey Product Specialist"
   },
   {
-    "t": "Product Analyst \u2014 Digital Commerce",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Product Analyst \u2014 Digital Commerce"
   },
   {
-    "t": "Product Backlog Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Backlog Manager"
   },
   {
-    "t": "Website Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Website Operations Manager"
   },
   {
-    "t": "Web Experience Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Web Experience Manager"
   },
   {
-    "t": "Digital Content Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Digital Content Operations Manager"
   },
   {
-    "t": "E-Commerce Platform Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "E-Commerce Platform Manager"
   },
   {
-    "t": "Product Support Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Support Manager"
   },
   {
-    "t": "Technical Customer Experience Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Customer Experience Manager"
   },
   {
-    "t": "Product Enablement Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 0
+    "title": "Product Enablement Specialist"
   },
   {
-    "t": "Product Adoption Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Adoption Manager"
   },
   {
-    "t": "Digital Delivery Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Digital Delivery Manager"
   },
   {
-    "t": "Web Project Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Web Project Manager"
   },
   {
-    "t": "Product Implementation Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "Product Implementation Manager"
   },
   {
-    "t": "E-Commerce Program Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 97,
-    "sr": 1
+    "title": "E-Commerce Program Manager"
   },
   {
-    "t": "SMB Technical Account Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "SMB Technical Account Manager"
   },
   {
-    "t": "Customer Success Manager \u2014 Technical Services",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Customer Success Manager \u2014 Technical Services"
   },
   {
-    "t": "Technical Services Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Services Manager"
   },
   {
-    "t": "Managed Hosting Operations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Managed Hosting Operations Manager"
   },
   {
-    "t": "Enterprise Support Operations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise Support Operations Manager"
   },
   {
-    "t": "Customer Support Operations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Customer Support Operations Manager"
   },
   {
-    "t": "Technical Support Manager \u2014 Linux & Cloud",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Support Manager \u2014 Linux & Cloud"
   },
   {
-    "t": "Client Technology Services Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Client Technology Services Manager"
   },
   {
-    "t": "Customer Experience Operations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Customer Experience Operations Manager"
   },
   {
-    "t": "Technical Solutions Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Solutions Manager"
   },
   {
-    "t": "Solutions Delivery Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Solutions Delivery Manager"
   },
   {
-    "t": "IT Service Delivery Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "IT Service Delivery Manager"
   },
   {
-    "t": "Service Operations Manager \u2014 Hosting",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Service Operations Manager \u2014 Hosting"
   },
   {
-    "t": "Enterprise Client Services Lead",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise Client Services Lead"
   },
   {
-    "t": "Enterprise Solutions Consultant",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise Solutions Consultant"
   },
   {
-    "t": "Technical Sales Manager \u2014 Cloud Services",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Sales Manager \u2014 Cloud Services"
   },
   {
-    "t": "Technical Account Lead \u2014 Hosting",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Account Lead \u2014 Hosting"
   },
   {
-    "t": "Customer Onboarding Manager \u2014 Technical Platforms",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Customer Onboarding Manager \u2014 Technical Platforms"
   },
   {
-    "t": "Client Success Lead \u2014 E-Commerce Technology",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Client Success Lead \u2014 E-Commerce Technology"
   },
   {
-    "t": "Technical Escalations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Escalations Manager"
   },
   {
-    "t": "Support Quality & Process Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Support Quality & Process Manager"
   },
   {
-    "t": "Service Desk Operations Lead",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Service Desk Operations Lead"
   },
   {
-    "t": "Enterprise Customer Experience Lead",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Enterprise Customer Experience Lead"
   },
   {
-    "t": "Managed Services Client Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Managed Services Client Manager"
   },
   {
-    "t": "Cloud Services Delivery Lead",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Cloud Services Delivery Lead"
   },
   {
-    "t": "Technical Relationship Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Technical Relationship Manager"
   },
   {
-    "t": "Customer Solutions Lead \u2014 E-Commerce",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Customer Solutions Lead \u2014 E-Commerce"
   },
   {
-    "t": "Business Systems Operations Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Business Systems Operations Manager"
   },
   {
-    "t": "IT Operations Project Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "IT Operations Project Manager"
   },
   {
-    "t": "Client Implementation Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Client Implementation Manager"
   },
   {
-    "t": "Support Enablement Manager",
-    "c": "Enterprise / SMB Management",
-    "s": 97,
-    "sr": 1
+    "title": "Support Enablement Manager"
   },
   {
-    "t": "Enterprise Linux Administrator",
-    "c": "Linux Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise Linux Administrator"
   },
   {
-    "t": "Enterprise Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise Managed Services Engineer"
   },
   {
-    "t": "Enterprise OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise OpenStack Administrator"
   },
   {
-    "t": "Enterprise WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise WooCommerce Support Engineer"
   },
   {
-    "t": "Enterprise WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Enterprise WordPress Support Engineer"
   },
   {
-    "t": "Escalation Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Escalation Managed Services Engineer"
   },
   {
-    "t": "Escalation OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "Escalation OpenStack Administrator"
   },
   {
-    "t": "Escalation WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Escalation WooCommerce Support Engineer"
   },
   {
-    "t": "Escalation WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Escalation WordPress Support Engineer"
   },
   {
-    "t": "Galera Cluster Database Engineer",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Galera Cluster Database Engineer"
   },
   {
-    "t": "Global Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Global Managed Services Engineer"
   },
   {
-    "t": "Global OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "Global OpenStack Administrator"
   },
   {
-    "t": "Global WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Global WooCommerce Support Engineer"
   },
   {
-    "t": "Global WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Global WordPress Support Engineer"
   },
   {
-    "t": "Lead Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 1
+    "title": "Lead Managed Services Engineer"
   },
   {
-    "t": "Lead OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 1
+    "title": "Lead OpenStack Administrator"
   },
   {
-    "t": "Lead WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Lead WooCommerce Support Engineer"
   },
   {
-    "t": "Lead WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Lead WordPress Support Engineer"
   },
   {
-    "t": "MySQL HA / Replication Specialist",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "MySQL HA / Replication Specialist"
   },
   {
-    "t": "OpenStack Cloud Operations Engineer",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "OpenStack Cloud Operations Engineer"
   },
   {
-    "t": "Principal Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 1
+    "title": "Principal Managed Services Engineer"
   },
   {
-    "t": "Principal OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 1
+    "title": "Principal OpenStack Administrator"
   },
   {
-    "t": "Principal WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Principal WooCommerce Support Engineer"
   },
   {
-    "t": "Principal WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Principal WordPress Support Engineer"
   },
   {
-    "t": "Production Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Production Managed Services Engineer"
   },
   {
-    "t": "Production OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "Production OpenStack Administrator"
   },
   {
-    "t": "Production WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Production WooCommerce Support Engineer"
   },
   {
-    "t": "Production WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Production WordPress Support Engineer"
   },
   {
-    "t": "Remote Hosting Support Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Remote Hosting Support Engineer"
   },
   {
-    "t": "Remote Linux Systems Administrator",
-    "c": "Linux Ops",
-    "s": 97,
-    "sr": 0
+    "title": "Remote Linux Systems Administrator"
   },
   {
-    "t": "Remote MySQL DBA",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Remote MySQL DBA"
   },
   {
-    "t": "Remote Percona DBA",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Remote Percona DBA"
   },
   {
-    "t": "Senior Linux Operations Engineer",
-    "c": "Linux Ops",
-    "s": 97,
-    "sr": 1
+    "title": "Senior Linux Operations Engineer"
   },
   {
-    "t": "Senior OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 1
+    "title": "Senior OpenStack Administrator"
   },
   {
-    "t": "Senior WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Senior WooCommerce Support Engineer"
   },
   {
-    "t": "Senior WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Senior WordPress Support Engineer"
   },
   {
-    "t": "Staff Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 1
+    "title": "Staff Managed Services Engineer"
   },
   {
-    "t": "Staff OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 1
+    "title": "Staff OpenStack Administrator"
   },
   {
-    "t": "Staff WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Staff WooCommerce Support Engineer"
   },
   {
-    "t": "Staff WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "Staff WordPress Support Engineer"
   },
   {
-    "t": "Tier-3 Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 0
+    "title": "Tier-3 Managed Services Engineer"
   },
   {
-    "t": "Tier-3 OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 97,
-    "sr": 0
+    "title": "Tier-3 OpenStack Administrator"
   },
   {
-    "t": "Tier-3 WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Tier-3 WooCommerce Support Engineer"
   },
   {
-    "t": "Tier-3 WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Tier-3 WordPress Support Engineer"
   },
   {
-    "t": "WooCommerce Hosting Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "WooCommerce Hosting Support Engineer"
   },
   {
-    "t": "WordPress Hosting Support Specialist",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "WordPress Hosting Support Specialist"
   },
   {
-    "t": "Senior Managed Applications Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 97,
-    "sr": 1
+    "title": "Senior Managed Applications Engineer"
   },
   {
-    "t": "Database Operations Specialist",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Database Operations Specialist"
   },
   {
-    "t": "Database Reliability Support Engineer",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Database Reliability Support Engineer"
   },
   {
-    "t": "Database Systems Analyst",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Database Systems Analyst"
   },
   {
-    "t": "Database Services Engineer",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "Database Services Engineer"
   },
   {
-    "t": "SQL Platform Support Specialist",
-    "c": "Database / DBA",
-    "s": 97,
-    "sr": 0
+    "title": "SQL Platform Support Specialist"
   },
   {
-    "t": "WooCommerce Platform Specialist",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "WooCommerce Platform Specialist"
   },
   {
-    "t": "Magento Applications Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Magento Applications Support Engineer"
   },
   {
-    "t": "E-Commerce Platform Support Lead",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 1
+    "title": "E-Commerce Platform Support Lead"
   },
   {
-    "t": "CMS Applications Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "CMS Applications Engineer"
   },
   {
-    "t": "E-Commerce Systems Administrator",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "E-Commerce Systems Administrator"
   },
   {
-    "t": "Digital Commerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 97,
-    "sr": 0
+    "title": "Digital Commerce Support Engineer"
   },
   {
-    "t": "Enterprise Digital Operations Manager \u2014 Luxury",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Digital Operations Manager \u2014 Luxury"
   },
   {
-    "t": "Global Digital Operations Manager \u2014 Luxury",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Global Digital Operations Manager \u2014 Luxury"
   },
   {
-    "t": "Luxury Brand Technical Account Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Luxury Brand Technical Account Manager"
   },
   {
-    "t": "Luxury E-Commerce Platform Support Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Luxury E-Commerce Platform Support Manager"
   },
   {
-    "t": "Regional Digital Operations Manager \u2014 Luxury",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Regional Digital Operations Manager \u2014 Luxury"
   },
   {
-    "t": "Senior Digital Operations Manager \u2014 Luxury",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Digital Operations Manager \u2014 Luxury"
   },
   {
-    "t": "Fashion E-Commerce Operations Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Fashion E-Commerce Operations Specialist"
   },
   {
-    "t": "Premium Brand E-Commerce Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Premium Brand E-Commerce Specialist"
   },
   {
-    "t": "Fashion Technology Project Coordinator",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Fashion Technology Project Coordinator"
   },
   {
-    "t": "Fashion Retail Systems Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Fashion Retail Systems Specialist"
   },
   {
-    "t": "Enterprise Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Enterprise Inventory Coordination Specialist"
   },
   {
-    "t": "Enterprise Inventory Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Inventory Operations Manager"
   },
   {
-    "t": "Enterprise Stock Manager \u2014 Digital Commerce",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Stock Manager \u2014 Digital Commerce"
   },
   {
-    "t": "Global Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Global Inventory Coordination Specialist"
   },
   {
-    "t": "Global Inventory Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Global Inventory Operations Manager"
   },
   {
-    "t": "Global Stock Manager \u2014 Digital Commerce",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Global Stock Manager \u2014 Digital Commerce"
   },
   {
-    "t": "Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Inventory Coordination Specialist"
   },
   {
-    "t": "Lead Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Inventory Coordination Specialist"
   },
   {
-    "t": "Regional Inventory Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Regional Inventory Operations Manager"
   },
   {
-    "t": "Regional Stock Manager \u2014 Digital Commerce",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Regional Stock Manager \u2014 Digital Commerce"
   },
   {
-    "t": "Senior Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Inventory Coordination Specialist"
   },
   {
-    "t": "Senior Inventory Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Inventory Operations Manager"
   },
   {
-    "t": "Senior Stock Manager \u2014 Digital Commerce",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Stock Manager \u2014 Digital Commerce"
   },
   {
-    "t": "Warehouse Systems Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Warehouse Systems Coordinator"
   },
   {
-    "t": "Point-of-Sale Operations Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Point-of-Sale Operations Specialist"
   },
   {
-    "t": "Retail Operations Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Retail Operations Coordinator"
   },
   {
-    "t": "Retail Fulfillment Operations Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Retail Fulfillment Operations Specialist"
   },
   {
-    "t": "Associate AI Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Associate AI Product Manager"
   },
   {
-    "t": "Associate Product Manager \u2014 Front-End Modernization",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Associate Product Manager \u2014 Front-End Modernization"
   },
   {
-    "t": "Digital Product Manager \u2014 E-Commerce Platforms",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Digital Product Manager \u2014 E-Commerce Platforms"
   },
   {
-    "t": "Enterprise Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Digital Product Manager"
   },
   {
-    "t": "Enterprise E-Commerce Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise E-Commerce Operations Manager"
   },
   {
-    "t": "Enterprise Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Technical Product Manager"
   },
   {
-    "t": "Global Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Global Digital Product Manager"
   },
   {
-    "t": "Global E-Commerce Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Global E-Commerce Operations Manager"
   },
   {
-    "t": "Global Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Global Technical Product Manager"
   },
   {
-    "t": "Lead Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Digital Product Manager"
   },
   {
-    "t": "Lead Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Technical Product Manager"
   },
   {
-    "t": "MBA AI Product Management Associate",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 0
+    "title": "MBA AI Product Management Associate"
   },
   {
-    "t": "Product Manager \u2014 AI-Driven Products",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Product Manager \u2014 AI-Driven Products"
   },
   {
-    "t": "Regional E-Commerce Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Regional E-Commerce Operations Manager"
   },
   {
-    "t": "Senior Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Digital Product Manager"
   },
   {
-    "t": "Senior E-Commerce Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Senior E-Commerce Operations Manager"
   },
   {
-    "t": "Senior Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Technical Product Manager"
   },
   {
-    "t": "Xbox Product Manager (Certificate Track)",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 1
+    "title": "Xbox Product Manager (Certificate Track)"
   },
   {
-    "t": "Digital Roadmap Coordinator",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 0
+    "title": "Digital Roadmap Coordinator"
   },
   {
-    "t": "Technical Program Coordinator \u2014 Web",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 0
+    "title": "Technical Program Coordinator \u2014 Web"
   },
   {
-    "t": "Digital Transformation Project Coordinator",
-    "c": "Product / Digital Mgmt",
-    "s": 96,
-    "sr": 0
+    "title": "Digital Transformation Project Coordinator"
   },
   {
-    "t": "SMB Solutions Consultant",
-    "c": "Enterprise / SMB Management",
-    "s": 96,
-    "sr": 0
+    "title": "SMB Solutions Consultant"
   },
   {
-    "t": "Cloud Solutions Sales Specialist",
-    "c": "Enterprise / SMB Management",
-    "s": 96,
-    "sr": 0
+    "title": "Cloud Solutions Sales Specialist"
   },
   {
-    "t": "Technical Operations Coordinator",
-    "c": "Enterprise / SMB Management",
-    "s": 96,
-    "sr": 0
+    "title": "Technical Operations Coordinator"
   },
   {
-    "t": "AWS Infrastructure Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "AWS Infrastructure Support Engineer"
   },
   {
-    "t": "AWS Solutions Architect Associate (Practice Track)",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "AWS Solutions Architect Associate (Practice Track)"
   },
   {
-    "t": "AWS Support Engineer \u2014 Infrastructure",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "AWS Support Engineer \u2014 Infrastructure"
   },
   {
-    "t": "Associate DBA / Database Support Engineer",
-    "c": "Database / DBA",
-    "s": 96,
-    "sr": 0
+    "title": "Associate DBA / Database Support Engineer"
   },
   {
-    "t": "Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Consultative Solutions Manager"
   },
   {
-    "t": "E-Commerce Platform Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 96,
-    "sr": 0
+    "title": "E-Commerce Platform Support Engineer"
   },
   {
-    "t": "Enterprise AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Enterprise AWS Support Engineer"
   },
   {
-    "t": "Enterprise Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Consultative Solutions Manager"
   },
   {
-    "t": "Enterprise IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 0
+    "title": "Enterprise IaaS Support Engineer"
   },
   {
-    "t": "Enterprise Managed Hosting Support Manager",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Managed Hosting Support Manager"
   },
   {
-    "t": "Enterprise Service Delivery Manager",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Service Delivery Manager"
   },
   {
-    "t": "Enterprise Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 0
+    "title": "Enterprise Solutions Engineer"
   },
   {
-    "t": "Enterprise Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Enterprise Technical Account Manager"
   },
   {
-    "t": "Escalation AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Escalation AWS Support Engineer"
   },
   {
-    "t": "Escalation IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 0
+    "title": "Escalation IaaS Support Engineer"
   },
   {
-    "t": "Escalation Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 0
+    "title": "Escalation Solutions Engineer"
   },
   {
-    "t": "Escalation Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Escalation Technical Account Manager"
   },
   {
-    "t": "Global AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Global AWS Support Engineer"
   },
   {
-    "t": "Global Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Global Consultative Solutions Manager"
   },
   {
-    "t": "Global IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 0
+    "title": "Global IaaS Support Engineer"
   },
   {
-    "t": "Global Service Delivery Manager",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 1
+    "title": "Global Service Delivery Manager"
   },
   {
-    "t": "Global Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 0
+    "title": "Global Solutions Engineer"
   },
   {
-    "t": "Global Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Global Technical Account Manager"
   },
   {
-    "t": "Lead AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Lead AWS Support Engineer"
   },
   {
-    "t": "Lead Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Consultative Solutions Manager"
   },
   {
-    "t": "Lead IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 1
+    "title": "Lead IaaS Support Engineer"
   },
   {
-    "t": "Lead Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Solutions Engineer"
   },
   {
-    "t": "Lead Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Lead Technical Account Manager"
   },
   {
-    "t": "Magento Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 96,
-    "sr": 0
+    "title": "Magento Support Engineer"
   },
   {
-    "t": "MySQL Performance Tuning Engineer",
-    "c": "Database / DBA",
-    "s": 96,
-    "sr": 0
+    "title": "MySQL Performance Tuning Engineer"
   },
   {
-    "t": "OpenStack Support Engineer",
-    "c": "OpenStack / Private Cloud",
-    "s": 96,
-    "sr": 0
+    "title": "OpenStack Support Engineer"
   },
   {
-    "t": "Pre-Sales Technical Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Pre-Sales Technical Solutions Manager"
   },
   {
-    "t": "Principal AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Principal AWS Support Engineer"
   },
   {
-    "t": "Principal IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 1
+    "title": "Principal IaaS Support Engineer"
   },
   {
-    "t": "Principal Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Principal Solutions Engineer"
   },
   {
-    "t": "Principal Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Principal Technical Account Manager"
   },
   {
-    "t": "Private Cloud Operations Engineer",
-    "c": "OpenStack / Private Cloud",
-    "s": 96,
-    "sr": 0
+    "title": "Private Cloud Operations Engineer"
   },
   {
-    "t": "Production AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Production AWS Support Engineer"
   },
   {
-    "t": "Production IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 0
+    "title": "Production IaaS Support Engineer"
   },
   {
-    "t": "Production Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 0
+    "title": "Production Solutions Engineer"
   },
   {
-    "t": "Production Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Production Technical Account Manager"
   },
   {
-    "t": "Regional Service Delivery Manager",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 1
+    "title": "Regional Service Delivery Manager"
   },
   {
-    "t": "Remote Managed Services Engineer",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 0
+    "title": "Remote Managed Services Engineer"
   },
   {
-    "t": "Remote OpenStack Administrator",
-    "c": "OpenStack / Private Cloud",
-    "s": 96,
-    "sr": 0
+    "title": "Remote OpenStack Administrator"
   },
   {
-    "t": "Remote WooCommerce Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 96,
-    "sr": 0
+    "title": "Remote WooCommerce Support Engineer"
   },
   {
-    "t": "Remote WordPress Support Engineer",
-    "c": "CMS / E-commerce",
-    "s": 96,
-    "sr": 0
+    "title": "Remote WordPress Support Engineer"
   },
   {
-    "t": "SMB & Enterprise Client Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "SMB & Enterprise Client Solutions Manager"
   },
   {
-    "t": "Senior AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Senior AWS Support Engineer"
   },
   {
-    "t": "Senior Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Consultative Solutions Manager"
   },
   {
-    "t": "Senior IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 1
+    "title": "Senior IaaS Support Engineer"
   },
   {
-    "t": "Senior Service Delivery Manager",
-    "c": "Managed Hosting / L3",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Service Delivery Manager"
   },
   {
-    "t": "Senior Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Solutions Engineer"
   },
   {
-    "t": "Senior Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Technical Account Manager"
   },
   {
-    "t": "Senior Technical Account Manager \u2014 Hosting",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Senior Technical Account Manager \u2014 Hosting"
   },
   {
-    "t": "Staff AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 1
+    "title": "Staff AWS Support Engineer"
   },
   {
-    "t": "Staff IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 1
+    "title": "Staff IaaS Support Engineer"
   },
   {
-    "t": "Staff Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Staff Solutions Engineer"
   },
   {
-    "t": "Staff Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Staff Technical Account Manager"
   },
   {
-    "t": "Technical Account Manager \u2014 Managed Hosting",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Technical Account Manager \u2014 Managed Hosting"
   },
   {
-    "t": "Tier-3 AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 96,
-    "sr": 0
+    "title": "Tier-3 AWS Support Engineer"
   },
   {
-    "t": "Tier-3 IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 96,
-    "sr": 0
+    "title": "Tier-3 IaaS Support Engineer"
   },
   {
-    "t": "Tier-3 Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 0
+    "title": "Tier-3 Solutions Engineer"
   },
   {
-    "t": "Tier-3 Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 96,
-    "sr": 1
+    "title": "Tier-3 Technical Account Manager"
   },
   {
-    "t": "WordPress Full Stack Support Specialist",
-    "c": "CMS / E-commerce",
-    "s": 96,
-    "sr": 0
+    "title": "WordPress Full Stack Support Specialist"
   },
   {
-    "t": "Brand Infrastructure Support Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Brand Infrastructure Support Manager"
   },
   {
-    "t": "Brand Platform Solutions Consultant",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Brand Platform Solutions Consultant"
   },
   {
-    "t": "Customer Experience Technology Manager \u2014 Luxury",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Customer Experience Technology Manager \u2014 Luxury"
   },
   {
-    "t": "Digital Operations Manager \u2014 Luxury Brands",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Digital Operations Manager \u2014 Luxury Brands"
   },
   {
-    "t": "Fashion E-Commerce Technology Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Fashion E-Commerce Technology Manager"
   },
   {
-    "t": "Luxury Client Technical Success Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Luxury Client Technical Success Manager"
   },
   {
-    "t": "Luxury Digital Experience Manager",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Luxury Digital Experience Manager"
   },
   {
-    "t": "Luxury Retail Technology Support Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Luxury Retail Technology Support Specialist"
   },
   {
-    "t": "Omnichannel Systems Support Specialist",
-    "c": "Luxury / Brand Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Omnichannel Systems Support Specialist"
   },
   {
-    "t": "Associate Inventory Coordination Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Associate Inventory Coordination Specialist"
   },
   {
-    "t": "Commerce Inventory Support Engineer",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Commerce Inventory Support Engineer"
   },
   {
-    "t": "Digital Branding & Inventory Systems Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Digital Branding & Inventory Systems Analyst"
   },
   {
-    "t": "Digital Stock Operations Lead",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Digital Stock Operations Lead"
   },
   {
-    "t": "Direct Retail Sales & Inventory Support",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Direct Retail Sales & Inventory Support"
   },
   {
-    "t": "Inventory Control Analyst \u2014 Digital",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Inventory Control Analyst \u2014 Digital"
   },
   {
-    "t": "Inventory Operations Manager",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Inventory Operations Manager"
   },
   {
-    "t": "Inventory Systems Support Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Inventory Systems Support Specialist"
   },
   {
-    "t": "Merchandise Systems Support Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Merchandise Systems Support Analyst"
   },
   {
-    "t": "POS Operations Specialist",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "POS Operations Specialist"
   },
   {
-    "t": "Stock Control Systems Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Stock Control Systems Analyst"
   },
   {
-    "t": "Stock Manager \u2014 Digital Commerce Platforms",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Stock Manager \u2014 Digital Commerce Platforms"
   },
   {
-    "t": "Stock Systems Administrator",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Stock Systems Administrator"
   },
   {
-    "t": "Supply Systems Support Analyst",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Supply Systems Support Analyst"
   },
   {
-    "t": "Visual Merchandising & Inventory Coordinator",
-    "c": "Stock / Inventory Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Visual Merchandising & Inventory Coordinator"
   },
   {
-    "t": "AI-First Market Analysis Product Associate",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "AI-First Market Analysis Product Associate"
   },
   {
-    "t": "Agile Product Development Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Agile Product Development Manager"
   },
   {
-    "t": "Associate Digital Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Associate Digital Product Manager"
   },
   {
-    "t": "Associate Technical Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Associate Technical Product Manager"
   },
   {
-    "t": "Audience Engagement Technology Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Audience Engagement Technology Specialist"
   },
   {
-    "t": "Cross-Functional Product Delivery Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Cross-Functional Product Delivery Manager"
   },
   {
-    "t": "Data-Driven Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Data-Driven Product Manager"
   },
   {
-    "t": "Digital Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Digital Operations Manager"
   },
   {
-    "t": "Digital Product Manager \u2014 E-Commerce",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Digital Product Manager \u2014 E-Commerce"
   },
   {
-    "t": "E-Commerce Operations Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "E-Commerce Operations Manager"
   },
   {
-    "t": "Enterprise AI Product Analyst",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Enterprise AI Product Analyst"
   },
   {
-    "t": "Ethical AI / AI Governance Product Associate",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Ethical AI / AI Governance Product Associate"
   },
   {
-    "t": "Experimentation & Analytics Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Experimentation & Analytics Product Manager"
   },
   {
-    "t": "Platform Product Manager \u2014 Hosting & Cloud",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Platform Product Manager \u2014 Hosting & Cloud"
   },
   {
-    "t": "Product Lifecycle Manager \u2014 Digital",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Product Lifecycle Manager \u2014 Digital"
   },
   {
-    "t": "Product Management Fundamentals Lead",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Product Management Fundamentals Lead"
   },
   {
-    "t": "Product Manager \u2014 Technical Sales Adjacent",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Product Manager \u2014 Technical Sales Adjacent"
   },
   {
-    "t": "Product Strategy & Roadmapping Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Product Strategy & Roadmapping Specialist"
   },
   {
-    "t": "Stakeholder Alignment Product Manager",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Stakeholder Alignment Product Manager"
   },
   {
-    "t": "Technical Product Manager \u2014 Digital Platforms",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Technical Product Manager \u2014 Digital Platforms"
   },
   {
-    "t": "Technical Program Manager \u2014 Platforms",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 1
+    "title": "Technical Program Manager \u2014 Platforms"
   },
   {
-    "t": "Technology-Enabled Live Events Support Specialist",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Technology-Enabled Live Events Support Specialist"
   },
   {
-    "t": "Virtual & Hybrid Experience Technology Associate",
-    "c": "Product / Digital Mgmt",
-    "s": 95,
-    "sr": 0
+    "title": "Virtual & Hybrid Experience Technology Associate"
   },
   {
-    "t": "AWS Cloud Operations Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 0
+    "title": "AWS Cloud Operations Engineer"
   },
   {
-    "t": "Associate Consultative Solutions Manager",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Associate Consultative Solutions Manager"
   },
   {
-    "t": "Client Delivery Manager \u2014 Hosting",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Client Delivery Manager \u2014 Hosting"
   },
   {
-    "t": "Cloud Linux Administrator",
-    "c": "Linux Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Cloud Linux Administrator"
   },
   {
-    "t": "Cloud Solutions Architecture Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Cloud Solutions Architecture Support Engineer"
   },
   {
-    "t": "Cloud Support Engineer \u2014 AWS & OpenStack",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Cloud Support Engineer \u2014 AWS & OpenStack"
   },
   {
-    "t": "Cloud Support Manager",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Cloud Support Manager"
   },
   {
-    "t": "Customer Success Engineer \u2014 Hosting Platforms",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Customer Success Engineer \u2014 Hosting Platforms"
   },
   {
-    "t": "Customer Value Communication Specialist",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Customer Value Communication Specialist"
   },
   {
-    "t": "Database Operations Manager",
-    "c": "Database / DBA",
-    "s": 95,
-    "sr": 1
+    "title": "Database Operations Manager"
   },
   {
-    "t": "Database Reliability Engineer \u2014 MySQL",
-    "c": "Database / DBA",
-    "s": 95,
-    "sr": 0
+    "title": "Database Reliability Engineer \u2014 MySQL"
   },
   {
-    "t": "DevOps Support Engineer \u2014 Linux & Cloud",
-    "c": "DevOps / Platform",
-    "s": 95,
-    "sr": 0
+    "title": "DevOps Support Engineer \u2014 Linux & Cloud"
   },
   {
-    "t": "E-Commerce Platform Support Manager",
-    "c": "CMS / E-commerce",
-    "s": 95,
-    "sr": 1
+    "title": "E-Commerce Platform Support Manager"
   },
   {
-    "t": "End-to-End Solutions Delivery Consultant",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "End-to-End Solutions Delivery Consultant"
   },
   {
-    "t": "Enterprise Architecture Support Analyst",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Enterprise Architecture Support Analyst"
   },
   {
-    "t": "Enterprise Support Manager",
-    "c": "Managed Hosting / L3",
-    "s": 95,
-    "sr": 1
+    "title": "Enterprise Support Manager"
   },
   {
-    "t": "Hosting Operations Manager",
-    "c": "Managed Hosting / L3",
-    "s": 95,
-    "sr": 1
+    "title": "Hosting Operations Manager"
   },
   {
-    "t": "Hosting Platform Support Manager",
-    "c": "Managed Hosting / L3",
-    "s": 95,
-    "sr": 1
+    "title": "Hosting Platform Support Manager"
   },
   {
-    "t": "Hybrid Cloud Operations Manager",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Hybrid Cloud Operations Manager"
   },
   {
-    "t": "IaaS Support Manager",
-    "c": "IaaS Support",
-    "s": 95,
-    "sr": 1
+    "title": "IaaS Support Manager"
   },
   {
-    "t": "Linux Infrastructure Manager",
-    "c": "Linux Ops",
-    "s": 95,
-    "sr": 1
+    "title": "Linux Infrastructure Manager"
   },
   {
-    "t": "Linux Platform Administrator",
-    "c": "Linux Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Linux Platform Administrator"
   },
   {
-    "t": "NOC Tier-3 / Escalation Reliability Engineer",
-    "c": "SRE / Reliability",
-    "s": 95,
-    "sr": 0
+    "title": "NOC Tier-3 / Escalation Reliability Engineer"
   },
   {
-    "t": "Opportunity Qualification Specialist",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Opportunity Qualification Specialist"
   },
   {
-    "t": "Pipeline Development & Account Expansion Manager",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Pipeline Development & Account Expansion Manager"
   },
   {
-    "t": "Platform Support Engineer \u2014 Managed Hosting",
-    "c": "DevOps / Platform",
-    "s": 95,
-    "sr": 0
+    "title": "Platform Support Engineer \u2014 Managed Hosting"
   },
   {
-    "t": "Pre-Sales Solutions Consultant \u2014 Cloud",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Pre-Sales Solutions Consultant \u2014 Cloud"
   },
   {
-    "t": "Remote AWS Support Engineer",
-    "c": "AWS / Cloud Ops",
-    "s": 95,
-    "sr": 0
+    "title": "Remote AWS Support Engineer"
   },
   {
-    "t": "Remote IaaS Support Engineer",
-    "c": "IaaS Support",
-    "s": 95,
-    "sr": 0
+    "title": "Remote IaaS Support Engineer"
   },
   {
-    "t": "Remote Solutions Engineer",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Remote Solutions Engineer"
   },
   {
-    "t": "Remote Technical Account Manager",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Remote Technical Account Manager"
   },
   {
-    "t": "Revenue Forecasting Support Analyst",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Revenue Forecasting Support Analyst"
   },
   {
-    "t": "Senior Solutions Engineer \u2014 Hosting Platforms",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Senior Solutions Engineer \u2014 Hosting Platforms"
   },
   {
-    "t": "Senior WooCommerce Engineer",
-    "c": "CMS / E-commerce",
-    "s": 95,
-    "sr": 1
+    "title": "Senior WooCommerce Engineer"
   },
   {
-    "t": "Service Delivery Manager \u2014 Managed Cloud",
-    "c": "Managed Hosting / L3",
-    "s": 95,
-    "sr": 1
+    "title": "Service Delivery Manager \u2014 Managed Cloud"
   },
   {
-    "t": "Site Reliability Support Engineer \u2014 Hosting",
-    "c": "SRE / Reliability",
-    "s": 95,
-    "sr": 0
+    "title": "Site Reliability Support Engineer \u2014 Hosting"
   },
   {
-    "t": "Solution Positioning Consultant",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Solution Positioning Consultant"
   },
   {
-    "t": "Solutions Consultant \u2014 Cloud & Hosting",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Solutions Consultant \u2014 Cloud & Hosting"
   },
   {
-    "t": "Solutions Engineer \u2014 Managed Hosting",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Solutions Engineer \u2014 Managed Hosting"
   },
   {
-    "t": "Stakeholder Discovery Solutions Consultant",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 0
+    "title": "Stakeholder Discovery Solutions Consultant"
   },
   {
-    "t": "Technical Sales Manager \u2014 Cloud & Hosting",
-    "c": "TAM / Solutions",
-    "s": 95,
-    "sr": 1
+    "title": "Technical Sales Manager \u2014 Cloud & Hosting"
   },
   {
-    "t": "Technical Support Engineer \u2014 IaaS",
-    "c": "IaaS Support",
-    "s": 95,
-    "sr": 0
+    "title": "Technical Support Engineer \u2014 IaaS"
   },
   {
-    "t": "WordPress Systems Administrator",
-    "c": "CMS / E-commerce",
-    "s": 95,
-    "sr": 0
+    "title": "WordPress Systems Administrator"
   }
 ]
