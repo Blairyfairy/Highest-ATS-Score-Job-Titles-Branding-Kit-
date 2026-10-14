@@ -1,62 +1,72 @@
-# ✦ Blair Page — Master Brand Identity & ATS-Aligned Career Portfolio
+# Blair Page · Signature Professional Brand System
 
-**2026 GitHub-ready visual identity system** · Signature lavender gemstone · Pink/purple-haired circular portrait · Midnight-violet and mauve editorial identity.
+**Enterprise L3 Support Engineering · Linux Infrastructure · Managed Hosting · Cloud Platforms · Digital Commerce**
 
-![Brand kit contact sheet](10_Previews/Professional_Brand_Kit_Contact_Sheet.jpg)
+A complete professional visual identity and communications library built around Blair Page's original lavender four-point favicon, midnight-violet editorial palette, and approved pink-and-purple-haired circular portrait. This repository brings together identity assets, career-positioning graphics, digital marketing materials, print layouts, presentation artwork, and reusable design standards.
 
-## Primary positioning
-**Enterprise L3 Support Engineer · Escalation L3 Support Engineer · L3 Linux Managed Applications Support Engineer**
+![Blair Page brand applications](10_Previews/Professional_Brand_Kit_Contact_Sheet.jpg)
 
-Brand extensions: Linux/managed hosting, AWS/cloud infrastructure, MySQL/Percona databases, WordPress/WooCommerce/Magento, technical solutions, digital product strategy, and luxury digital commerce.
+## Professional identity
 
-## Source and accuracy
-Built from `08_ATS_Data/Source_ATS_Differential.html` (500 modeled 95–100% titles) and `08_ATS_Data/Source_Portfolio_Index.html` (uploaded latest portfolio). The 12 100%-modeled matches are **not verified hiring-system scores**. Role titles are positioning targets, not proof of employment or supervisory duties. Mentoring/team-lead responsibility is not established solely by training credentials.
+**Blair Page**  
+Enterprise L3 Support Engineer | Escalation L3 Support Engineer | L3 Linux Managed Applications Support Engineer
 
-## Brand standards
-- **Gemstone:** original user-provided logo artwork in `13_Logo_System/`.
-- **Portrait:** `01_Identity/Portrait_Master_Transparent.png`, exactly centered in a true transparent circle, with no rectangular image corners.
-- **Colors:** Midnight violet `#291528`, deep ink `#17121B`, charcoal `#3A3E3B`, dusty mauve `#9E829C`, pale orchid `#D8B4D5`, ghost white `#F0EFF4`.
-- **Type:** DejaVu Sans Bold / Arial Bold headings; Arial / Helvetica body; system-font declarations only. No redistributed font binaries.
-- **Responsive:** use the supplied CSS, editable SVG and HTML templates.
+**Core expertise:** Linux systems administration, enterprise managed hosting, complex technical escalations, incident response, production troubleshooting, AWS cloud services, MySQL and Percona, high-availability environments, WordPress, WooCommerce, Magento, and digital platform operations.
 
-## Directory
+**Complementary practice:** technical solutions, digital product strategy, AI-enabled business workflows, luxury commerce technology, customer experience, and visual merchandising.
+
+The brand emphasizes the role families and technical specializations supported by the supplied portfolio and career research. Positioning headlines are not statements that every title was previously held.
+
+## Visual identity
+
+- **Signature emblem:** the exact original lavender four-point favicon artwork supplied for Blair Page. This is the brand mark in mastheads, logos and favicon exports—not a generic Unicode diamond or sparkle glyph.
+- **Professional icons:** distinct illustrated icons for engineering, Linux, cloud, databases, security, product strategy, business, commerce, and fashion. See [`16_Iconography`](16_Iconography/).
+- **Portrait:** [`01_Identity/Portrait_Master_Transparent.png`](01_Identity/Portrait_Master_Transparent.png) is the approved, centered, transparent circular image with blonde, pink and purple hair. Maintain concentric framing and never re-crop from the original screenshot.
+- **Colors:** midnight violet `#291528`, deep ink `#17121B`, charcoal `#3A3E3B`, dusty mauve `#9E829C`, pale orchid `#D8B4D5`, ghost white `#F0EFF4`. See [`17_Swatches`](17_Swatches/).
+- **Typography:** clear sans-serif editorial hierarchy, using Arial/Helvetica and compatible system fonts. See [`14_Design_Tokens`](14_Design_Tokens/).
+
+## Repository contents
+
 | Folder | Contents |
-|---|---|
-| `00_START_HERE` | Link directory and quick-start |
-| `01_Identity` | Circular portrait master and sizes |
-| `02_Social` | Social squares, banners, stories, thumbnails, hero |
-| `03_Business_Cards` | Role-specific front and back images |
-| `04_Flyers_Posters` | 12 role-specific posters |
-| `05_Stationery` | Letterhead image |
-| `06_Web` | Responsive profile website |
-| `07_Presentation` | Role-specific slide title art |
-| `08_ATS_Data` | All 500 titles in CSV/JSON, source HTML, score positioning matrix |
-| `09_Brand_Guidelines` | Identity rules |
-| `10_Previews` | Visual contact sheet and inventory |
-| `11_Promotional` | Media sheet, promo, event sign, bios |
-| `12_Print_Ready` | Existing print references; verify printer bleed before production |
-| `13_Logo_System` | Uploaded original logo art, variants, SVG wordmark |
-| `14_Design_Tokens` | CSS, JSON, Figma CSV, Tailwind colors, type scale |
-| `15_Templates_Editable` | SVG social card, email signature, letterhead, headline bank |
-| `16_Iconography` | PNG favicon sizes, ICO, web manifest |
-| `17_Swatches` | Palette board |
-| `18_Repository_Config` | Maintenance, asset rights, gitignore |
-| `19_QR_Codes` | Portfolio and ATS title QR graphics |
-| `20_Audits` | File/portrait checks and manifest |
+| --- | --- |
+| `00_START_HERE` | Quick-start materials and portfolio link directory |
+| `01_Identity` | Approved portrait, circular sizes, identity icons |
+| `02_Social` | LinkedIn, GitHub, social graphics, stories and banners |
+| `03_Business_Cards` | Role-specific business-card fronts and backs |
+| `04_Flyers_Posters` | Professional flyers and poster artwork |
+| `05_Stationery` | Letterhead and professional stationery |
+| `06_Web` | Responsive web identity page and related web assets |
+| `07_Presentation` | Role-specific presentation cover artwork |
+| `08_ATS_Data` | Source research and professional role-title reference data |
+| `09_Brand_Guidelines` | Brand voice, usage standards and professional positioning |
+| `10_Previews` | Contact sheet and full repository manifest |
+| `11_Promotional` | Promotional cards, media sheets and profile graphics |
+| `12_Print_Ready` | Print references and production notes |
+| `13_Logo_System` | Supplied original emblem, wordmarks and logo sizes |
+| `14_Design_Tokens` | Colors, CSS variables and theme declarations |
+| `15_Templates_Editable` | Reusable editable templates |
+| `16_Iconography` | Brand favicon and distinct professional specialty icons |
+| `17_Swatches` | Visual color swatches and palette references |
+| `18_Repository_Config` | Repository support and configuration files |
+| `19_QR_Codes` | Portfolio and professional-directory QR codes |
+| `20_Audits` | Production, consistency and asset checks |
 
-## Usage
-1. Use the `01_Identity` transparent PNG as the *single portrait master*.
-2. Choose role-specific assets matching the job application; lead with exact 100% modeled titles only where relevant.
-3. Customize `15_Templates_Editable` or `06_Web/index.html` for new campaigns.
-4. Import `14_Design_Tokens/brand.css` to maintain consistent colors and typography.
-5. Check text contrast, print bleed, link validity, and ATS wording before publishing.
+## Brand voice and editorial standards
 
-## Portfolio links
+Use clear, confident, evidence-based language. Emphasize enterprise support, systems reliability, infrastructure operations, complex incident troubleshooting, customer-facing technical solutions, cloud services and digital platform expertise. Keep visual headlines focused on professional capabilities rather than internal research methods. Keep career-reference data in its dedicated source folder, separate from public promotional artwork.
+
+**Suggested short bio:** Blair Page is a technology professional focused on enterprise Linux infrastructure, managed hosting, technical escalations, cloud services, and production application support. Additional portfolio interests span digital commerce, AI product strategy, and luxury technology experiences.
+
+## Portfolio and professional links
+
 - [Official portfolio](https://blairyfairy.github.io/BlairPage/)
-- [ATS title research](https://blairyfairy.github.io/BlairPage/Blairs_Job_Titles_ATS.html)
-- [Portfolio card](https://blairyfairy.github.io/portfolio-card/)
+- [Career title directory](https://blairyfairy.github.io/BlairPage/Blairs_Job_Titles_ATS.html)
+- [Digital portfolio card](https://blairyfairy.github.io/portfolio-card/)
 
-Full extracted website link directory: `00_START_HERE/Portfolio_Link_Directory.csv`.
+Additional links are catalogued in `00_START_HERE/Portfolio_Link_Directory.csv`.
 
-## Asset rights
-Portraits, supplied gemstone art and personal branding remain personal assets; no blanket third-party license is granted. Fonts are named via CSS, not bundled.
+## Publishing and maintenance
+
+Use the same repository folder names and file paths when replacing the previous GitHub edition. Upload the ZIP contents, not the ZIP itself, to the repository root. Remove outdated tracked assets only when they are no longer needed. Verify responsive crops, safe margins, URLs, QR codes and print-production requirements before release.
+
+Original portrait and emblem art are user-supplied. Third-party trademarks and images remain subject to their respective rights.
