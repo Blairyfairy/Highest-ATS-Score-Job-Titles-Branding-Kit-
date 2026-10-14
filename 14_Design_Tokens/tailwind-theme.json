@@ -1,0 +1,22 @@
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "midnight-violet": "#291528",
+        "deep-ink": "#17121B",
+        "charcoal": "#3A3E3B",
+        "dusty-mauve": "#9E829C",
+        "pale-orchid": "#D8B4D5",
+        "ghost-white": "#F0EFF4",
+        "border-mauve": "#C8B1C9"
+      },
+      "fontFamily": {
+        "sans": [
+          "Arial",
+          "Helvetica",
+          "sans-serif"
+        ]
+      }
+    }
+  }
+}

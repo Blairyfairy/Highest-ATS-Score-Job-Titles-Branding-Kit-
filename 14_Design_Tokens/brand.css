@@ -1,0 +1,13 @@
+:root{
+  --blair-midnight-violet: #291528;
+  --blair-deep-ink: #17121B;
+  --blair-charcoal: #3A3E3B;
+  --blair-dusty-mauve: #9E829C;
+  --blair-pale-orchid: #D8B4D5;
+  --blair-ghost-white: #F0EFF4;
+  --blair-border-mauve: #C8B1C9;
+  --font-display: "DejaVu Sans", Arial, Helvetica, sans-serif;
+  --font-body: Arial, Helvetica, sans-serif;
+  --radius-pill: 999px;
+}
+body{font-family:var(--font-body);color:var(--blair-ghost-white);background:linear-gradient(125deg,var(--blair-deep-ink),var(--blair-midnight-violet),var(--blair-charcoal))}.blair-portrait{display:block;aspect-ratio:1;width:100%;height:auto;object-fit:contain;border-radius:50%;overflow:hidden}.blair-wordmark{font-family:var(--font-display);font-weight:800;letter-spacing:-.03em}.blair-focus:focus-visible{outline:3px solid var(--blair-pale-orchid);outline-offset:4px}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}

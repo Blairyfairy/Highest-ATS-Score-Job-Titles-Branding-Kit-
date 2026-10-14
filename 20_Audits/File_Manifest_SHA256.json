@@ -1,0 +1,782 @@
+[
+  {
+    "path": "README.md",
+    "size": 3960,
+    "sha256": "bbcc4abb3043fdab63a51644d890cb0b3e17ffb288a2cfd19817378d4c17b79b"
+  },
+  {
+    "path": "10_Previews/File_Manifest.json",
+    "size": 10347,
+    "sha256": "aba57ef2c18dc544408a48e07fca6ac86db9cb9bca7f3be9cb95590e186c59ff"
+  },
+  {
+    "path": "10_Previews/Professional_Brand_Kit_Contact_Sheet.jpg",
+    "size": 310573,
+    "sha256": "2902a50f253dcbf688dd524ac46919fd0e8c2dfe9d8e2d580ef7655022a88141"
+  },
+  {
+    "path": "03_Business_Cards/L3_Escalation_Business_Card_Front_1050x600.jpg",
+    "size": 113120,
+    "sha256": "44f06945953a6cdffc3e4f554f3add7131d81bac3dd01e0745518b19419a0760"
+  },
+  {
+    "path": "03_Business_Cards/Luxury_Technology_Business_Card_Front_1050x600.jpg",
+    "size": 115129,
+    "sha256": "127b0752f40eb5d9dd469dab17d399a7331189466f70bd060e2850a15ff22418"
+  },
+  {
+    "path": "03_Business_Cards/Product_Business_Card_Back_1050x600.jpg",
+    "size": 69274,
+    "sha256": "87907a45f474ce327ea5c34c97f927378a0a1e51b2b112f800b9e183119bd047"
+  },
+  {
+    "path": "03_Business_Cards/L3_Escalation_Business_Card_Back_1050x600.jpg",
+    "size": 71058,
+    "sha256": "2b87f9cc7d27bea46e83b312e2f7df5a9737662ded4d005e3d27e83a9d8f4862"
+  },
+  {
+    "path": "03_Business_Cards/Linux_Engineer_Business_Card_Back_1050x600.jpg",
+    "size": 71093,
+    "sha256": "c6b1c716eb0fdc6f124788967b4c2ef7b0c4bc07d8f6b2e16c5937ccb1e2bb7f"
+  },
+  {
+    "path": "03_Business_Cards/Linux_Applications_Business_Card_Back_1050x600.jpg",
+    "size": 77189,
+    "sha256": "2daf5bee7b063f0bcdb96a779a703e995762e577244c9e3ee1c9c7e7daa2a182"
+  },
+  {
+    "path": "03_Business_Cards/Luxury_Technology_Business_Card_Back_1050x600.jpg",
+    "size": 72236,
+    "sha256": "3ac13a72af25979262efaadfa149fc75ee918247421eb9262a3eb13e31ff6354"
+  },
+  {
+    "path": "03_Business_Cards/L3_Enterprise_Business_Card_Front_1050x600.jpg",
+    "size": 111809,
+    "sha256": "690381da92f5560d64ef94f8c3b0beb7a67614a458c7fc4ebf2908a814b65f0b"
+  },
+  {
+    "path": "03_Business_Cards/Product_Business_Card_Front_1050x600.jpg",
+    "size": 109131,
+    "sha256": "9cff5b5b2b6e5d76c447a90d8c48f4e67bf93e3065faa9d8ec201b343e42e93b"
+  },
+  {
+    "path": "03_Business_Cards/Managed_Applications_Business_Card_Front_1050x600.jpg",
+    "size": 120341,
+    "sha256": "7efc23ff2a80edf34bd59c747f3df7f147b87051d5f2b17cf09e91f6e40f7b69"
+  },
+  {
+    "path": "03_Business_Cards/AWS_Cloud_Business_Card_Back_1050x600.jpg",
+    "size": 70600,
+    "sha256": "8769a7807cf36a3ecf8075ece9187ff2e3bf32331ffa21350af5315638de573a"
+  },
+  {
+    "path": "03_Business_Cards/AWS_Cloud_Business_Card_Front_1050x600.jpg",
+    "size": 109905,
+    "sha256": "266733a384ba9aa1dd89c71ca57bd8e8bba4caeefdd9c45ef09c32c48cd5e905"
+  },
+  {
+    "path": "03_Business_Cards/Luxury_Digital_Business_Card_Front_1050x600.jpg",
+    "size": 116623,
+    "sha256": "4c37a70843e1d3e749208556c4a7e01cf5f3f1c8c3a664f5c792fcd0b82300ec"
+  },
+  {
+    "path": "03_Business_Cards/Technical_Account_Business_Card_Back_1050x600.jpg",
+    "size": 73099,
+    "sha256": "c4b7144a33310af281d834ec007bc55b639c30d2e47c90892f24492af2e7305e"
+  },
+  {
+    "path": "03_Business_Cards/Commerce_Business_Card_Back_1050x600.jpg",
+    "size": 76770,
+    "sha256": "3c902c25f02a19892a529e93f2fff8faed4070861cc317c170c4f6e3a361fc20"
+  },
+  {
+    "path": "03_Business_Cards/Technical_Account_Business_Card_Front_1050x600.jpg",
+    "size": 115444,
+    "sha256": "2757e837788551f752b8cc479e20fa174dbddfbd73cf198a24a6d71934415126"
+  },
+  {
+    "path": "03_Business_Cards/Managed_Applications_Business_Card_Back_1050x600.jpg",
+    "size": 76630,
+    "sha256": "9f18fd4f06cda4b25bcf4fbe570b5a8557111af54eedc32ded8fd3bdb59b9975"
+  },
+  {
+    "path": "03_Business_Cards/Database_Business_Card_Back_1050x600.jpg",
+    "size": 68444,
+    "sha256": "462e881d100e1ae0dc4d38753966bb61413aa80904fb9d22663d17b9804bd29e"
+  },
+  {
+    "path": "03_Business_Cards/Linux_Applications_Business_Card_Front_1050x600.jpg",
+    "size": 120378,
+    "sha256": "4b27fc068444c5d8be4a204b1db2645d0aa5b12da8b495d0ca28bf860d2a0aba"
+  },
+  {
+    "path": "03_Business_Cards/Linux_Engineer_Business_Card_Front_1050x600.jpg",
+    "size": 111590,
+    "sha256": "6280414c2e03e17699ae80466982823f20fcc6a8211d8bc9cac152110f5b2bc4"
+  },
+  {
+    "path": "03_Business_Cards/Commerce_Business_Card_Front_1050x600.jpg",
+    "size": 121019,
+    "sha256": "2e7a414e910cdfb1159c86bd8cea070911edbc6d4631fff6aa68859fd3c0e5c3"
+  },
+  {
+    "path": "03_Business_Cards/Database_Business_Card_Front_1050x600.jpg",
+    "size": 108208,
+    "sha256": "f26fa7a447dd8d1ec1bca5a0fd4f614eb059b8827a49884b572efbd2052c4921"
+  },
+  {
+    "path": "03_Business_Cards/L3_Enterprise_Business_Card_Back_1050x600.jpg",
+    "size": 71092,
+    "sha256": "57cfc3b79611524e81546ffcd0dcc128b51742073f89ac5da67b41f335bb4138"
+  },
+  {
+    "path": "03_Business_Cards/Luxury_Digital_Business_Card_Back_1050x600.jpg",
+    "size": 73723,
+    "sha256": "2097eba9138eac8ba0f9be7d2e5925d49e5c9d68e8dce808301700818c73b743"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_48.png",
+    "size": 1801,
+    "sha256": "ba6f04a851ccdef8592d34a1836292ad805a010b1ae33f6a07412f8c9ad70a8a"
+  },
+  {
+    "path": "16_Iconography/favicon.ico",
+    "size": 6217,
+    "sha256": "54e91127586afc1aeb091c65ba2600eb31610172d90506247113b616fc659866"
+  },
+  {
+    "path": "16_Iconography/site.webmanifest",
+    "size": 363,
+    "sha256": "3830fd79bb38cff1bb7bcd61507e41437a1db526d3aafd7bd4f21bc477f844e3"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_180.png",
+    "size": 10901,
+    "sha256": "cd9435bc644b5453593df1021d129afdfa653c60b5b99954e886b8e3ebc61d1f"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_64.png",
+    "size": 2619,
+    "sha256": "962b7cb080e506cfa3f7bc2099607c760d51528f370a5a098d1ec126dfa5217c"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_128.png",
+    "size": 6695,
+    "sha256": "de31bb410a0cf31dc65add711bb6ad4f08d17f50582baab323655e3bf53ab9f8"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_256.png",
+    "size": 18515,
+    "sha256": "c97340d7ba4c27b96177d66a0915cb95a633802e56fc041ae4939794f31f94a2"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_16.png",
+    "size": 448,
+    "sha256": "30ccd8aaf8ed935a613cb3ce49637dbec84882896af71ab6e34b7b4247d63c86"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_192.png",
+    "size": 12095,
+    "sha256": "e4a48e910884030fe49ff359fc4debe1e3d9914c0c217f84be67fae7d20da8d8"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_512.png",
+    "size": 52609,
+    "sha256": "59e5b6754c133319abcf8e8f6834ae92841f82bba9eed510f645a97d15841f22"
+  },
+  {
+    "path": "16_Iconography/Gem_Favicon_32.png",
+    "size": 1077,
+    "sha256": "4c3c4d1e15202e7ba9eafe863fcf824ab66456c9a8c8546dbba7015c8e72a3cb"
+  },
+  {
+    "path": "13_Logo_System/Logo_Usage.md",
+    "size": 415,
+    "sha256": "da5d89202289281dc906b27bdec37783eb1d45ce33c2faa6314c44fb305975a1"
+  },
+  {
+    "path": "13_Logo_System/apple-touch-icon.png",
+    "size": 479008,
+    "sha256": "6c7de638c846f0704ef8c1a0553424973b125bcc3af1755b86df7e70da3ebb25"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_48.png",
+    "size": 2581,
+    "sha256": "7a0e15a00823a6ab3951904c19a3828026f7099a410efb7bd9e3adf8ed4988b8"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_64.png",
+    "size": 3763,
+    "sha256": "7a958dae84513822437a3364c481f98004d5a28c5390e322618c317779a435ec"
+  },
+  {
+    "path": "13_Logo_System/Wordmark_Dark.svg",
+    "size": 456,
+    "sha256": "81434e4aa807ed76191b7137de3641536ee4070c41041e454d37354711e20885"
+  },
+  {
+    "path": "13_Logo_System/BlairPageLogo.png",
+    "size": 479008,
+    "sha256": "6c7de638c846f0704ef8c1a0553424973b125bcc3af1755b86df7e70da3ebb25"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_1024.png",
+    "size": 479008,
+    "sha256": "6c7de638c846f0704ef8c1a0553424973b125bcc3af1755b86df7e70da3ebb25"
+  },
+  {
+    "path": "13_Logo_System/BlairPageLogoIcon.jpg",
+    "size": 549372,
+    "sha256": "d4c86e55510d592a0ff38233d56ef8964aa2bec2acf5649dbfc71e07912e258a"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_256.png",
+    "size": 25424,
+    "sha256": "5189c3713f2bf72653da31f6ea6d2a1def83de335c31276058d5c30cc32af3fa"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_180.png",
+    "size": 15232,
+    "sha256": "04e2c50cd14473b5b19bba1106bf608f2a9f1dae691135ffd12639f37d977f42"
+  },
+  {
+    "path": "13_Logo_System/Favicon.png",
+    "size": 479008,
+    "sha256": "6c7de638c846f0704ef8c1a0553424973b125bcc3af1755b86df7e70da3ebb25"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_32.png",
+    "size": 1559,
+    "sha256": "bb0e558024cbc9e59bf95ab18da1f4ca03e284d9eddd6b8f7ff1df036f94665b"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_512.png",
+    "size": 73042,
+    "sha256": "e7edd65a0c96c08bdbb2c9cf493e46cc733859197819b47883671c6ab316f2dc"
+  },
+  {
+    "path": "13_Logo_System/Gemstone_128.png",
+    "size": 9451,
+    "sha256": "eb5a7b3ba773833c50b7682f7a783b56a38006553775aa40d28628d32dd62ec4"
+  },
+  {
+    "path": "01_Identity/Apple_Touch_180.png",
+    "size": 58212,
+    "sha256": "19cc1830181d5965e8698901ac9f2173fcd0ea01c2aff0232778edb5e364bdf6"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1600.png",
+    "size": 1836724,
+    "sha256": "db6d8b12ad42a390135344c52e2a6a93dea4d7ef3f84ec14b2fadec4b493f39c"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_64.png",
+    "size": 9797,
+    "sha256": "1fce3f6d5a5b215b2997528bd2ba311e62d93597e122f833d1c6b660991ab99a"
+  },
+  {
+    "path": "01_Identity/Favicon_48.png",
+    "size": 6012,
+    "sha256": "08807d15a60cb3872700c10b6f197d49985556ffa428139501510cd2209b2bc2"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_400.png",
+    "size": 240706,
+    "sha256": "c61009bcc185f9c4d49d4c4d74f26f63ddbb4fcd52c7abb1ad84ce707d18272f"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_192.png",
+    "size": 65166,
+    "sha256": "046c0422b13b1f6d3286cf56e2fed73f3d342f00e95cd8c816ea58730c269fc8"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_256.png",
+    "size": 108908,
+    "sha256": "31da4bc7798e1ae8dfa1793c273f568a1db33c83b15e1a93f9d48d1d3173d8ee"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_512.png",
+    "size": 362700,
+    "sha256": "d6bfe57e67134d646c0a7a2f4963b2d14b14b2a91bd92a57330f70667bc5f001"
+  },
+  {
+    "path": "01_Identity/Portrait_Master_Transparent.png",
+    "size": 1006544,
+    "sha256": "2bd8d2be0e253244401f30890f8b410db231073b5dc76bae08e07b8530648106"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_128.png",
+    "size": 32087,
+    "sha256": "2ee03064959f84e34146797db1e89f759fca87107cb0c43e70c77813d885aade"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_48.png",
+    "size": 6022,
+    "sha256": "1ecd67774b3b5f772b0d035b16c7857834dfaa4bafc4c3dd92963c89756fad13"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_180.png",
+    "size": 58180,
+    "sha256": "d11d62d4314bd1498f99057770dfc3b96cc78b15a68cce9e96091777df31077c"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_96.png",
+    "size": 19655,
+    "sha256": "85bb7ab92c563a167440af3ed9c5faa3f33fab1ba47a30e4b096fe752139ac3e"
+  },
+  {
+    "path": "01_Identity/Favicon_32.png",
+    "size": 3078,
+    "sha256": "e7c5f2d744324d2c61aae50c08624fbd4c17c83a917210fc2fedb4edb794078e"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_800.png",
+    "size": 708882,
+    "sha256": "e0ba6ba75e06abfa75e416dc2838728cbcfe3534194dbd910a9c0f7cea719250"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_32.png",
+    "size": 3084,
+    "sha256": "51f9bd5fa14f4f3870fa38976b130c069ba3f88016b703d180028aec29bd3b96"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_2048.png",
+    "size": 2425780,
+    "sha256": "a27b7e799e914dd139101d579d02688e5ef8405db2ef9778c5faa50233c6b37a"
+  },
+  {
+    "path": "01_Identity/Blair_Pink_Purple_Hair_Centered_Circle_1024.png",
+    "size": 1006544,
+    "sha256": "2bd8d2be0e253244401f30890f8b410db231073b5dc76bae08e07b8530648106"
+  },
+  {
+    "path": "15_Templates_Editable/Social_Card_Template.svg",
+    "size": 996,
+    "sha256": "d47d0b2543d465a3171d6071b78ab28e3869866c5994ef30ad728cccaa1a515c"
+  },
+  {
+    "path": "15_Templates_Editable/Letterhead_Template.html",
+    "size": 556,
+    "sha256": "6e0cc9e2a0a86cdd22451d0f3020500ce83961f261da5d035137098653aebc70"
+  },
+  {
+    "path": "15_Templates_Editable/Email_Signature.html",
+    "size": 617,
+    "sha256": "b6dc17bb74b777a54eaaf2c312b9ee2c1601d8767d1fbadfb49e65eae0a7f305"
+  },
+  {
+    "path": "15_Templates_Editable/Professional_Headline_Copy.md",
+    "size": 793,
+    "sha256": "3794bdd0cabe66b41391e32ebe76409f56f3b8aa03a052f899ae1c2a0613c06a"
+  },
+  {
+    "path": "11_Promotional/Media_One_Sheet_1200x1800.jpg",
+    "size": 297345,
+    "sha256": "d61427c9653cd82e506e48da8610ae1b46e4a8387711ee20b086a4bbece0211a"
+  },
+  {
+    "path": "11_Promotional/Copy_Ready_Professional_Bios.md",
+    "size": 1356,
+    "sha256": "4627f4b1054aa616deafb3104bf4274f617e3b2022d344b009bce90a1469fdbe"
+  },
+  {
+    "path": "11_Promotional/Profile_Promo_1080x1080.jpg",
+    "size": 169073,
+    "sha256": "6399a1960671a0006cd67ff329152cb6e8a909d98781411987a5488c19f3c0df"
+  },
+  {
+    "path": "11_Promotional/Promo_Postcard_1800x1200.jpg",
+    "size": 264691,
+    "sha256": "9d2af33fa49195f03e146459b2f02004af1075dfc52deb6ddc8a2aea8fb5cb83"
+  },
+  {
+    "path": "11_Promotional/Event_Sign_2400x1200.jpg",
+    "size": 337875,
+    "sha256": "a675a4972ed652999043f4112485bd4af2a9d07193abaea340dde3ea638ad98c"
+  },
+  {
+    "path": "08_ATS_Data/All_500_Modeled_ATS_Titles.json",
+    "size": 56308,
+    "sha256": "6b8b892f14a48eab2c18e5d069fc2d7ea19d60d9aa4fc1c893ff08acdc3cbc48"
+  },
+  {
+    "path": "08_ATS_Data/Source_ATS_Differential.html",
+    "size": 66829,
+    "sha256": "53fc5604f4e65d6d1a97e83fea117ad3f150b126dcb2066e9275111bfb0c963f"
+  },
+  {
+    "path": "08_ATS_Data/Top_100_Percent_Titles.txt",
+    "size": 377,
+    "sha256": "8c42098e1cf3374743ec86720f7c671958515860dd43ad182ebd45a072a64c67"
+  },
+  {
+    "path": "08_ATS_Data/All_500_Modeled_ATS_Titles.csv",
+    "size": 30173,
+    "sha256": "266837b2aa24b98001ea5654cb0f3e6cc8f7e03685449bca43ff7bb2df8877f5"
+  },
+  {
+    "path": "08_ATS_Data/Source_Portfolio_Index.html",
+    "size": 887047,
+    "sha256": "2c9d601983d2088de291e34b247d4775cd537b61a9ffa425003d20b5cadbf9c1"
+  },
+  {
+    "path": "08_ATS_Data/ATS_Positioning_Matrix.md",
+    "size": 4954,
+    "sha256": "30cc78bb855ca2cf7d067834030f581727000b45c530273bb0b2b7f36021e7e7"
+  },
+  {
+    "path": "02_Social/Social_Link_Preview_1200x628.jpg",
+    "size": 121703,
+    "sha256": "6147e26986fdbcf067855c7d5e213ed1187fddc9b5e6d9b768d24de92a045fb7"
+  },
+  {
+    "path": "02_Social/L3_Enterprise_Social_Square_1080x1080.jpg",
+    "size": 173051,
+    "sha256": "b207619b7ae41cf7bcf2c3aa9cca27e4b60bc9e475f54acea03b6610624cdba3"
+  },
+  {
+    "path": "02_Social/Technical_Account_Instagram_Portrait_1080x1350.jpg",
+    "size": 194460,
+    "sha256": "42584bc660f4be7c23e03a7875c3c23fae0450bd89c9cfe0f4a60bdf5eb1d0b7"
+  },
+  {
+    "path": "02_Social/AWS_Cloud_Social_Square_1080x1080.jpg",
+    "size": 171949,
+    "sha256": "7e4ebbe52cb478be64c2449fcea34bd15fd3ee4d60773407470af66ab3cc13a4"
+  },
+  {
+    "path": "02_Social/Database_Social_Square_1080x1080.jpg",
+    "size": 167491,
+    "sha256": "69cfad99d17bd0886a8d8aa8530ae580170dc921aac6d28bf15e1712075accdb"
+  },
+  {
+    "path": "02_Social/Managed_Applications_Social_Square_1080x1080.jpg",
+    "size": 184391,
+    "sha256": "9082b9bbf3973b495fd566bd31cc9e3340f317d77541a2423c820eed762158be"
+  },
+  {
+    "path": "02_Social/Linux_Engineer_Instagram_Portrait_1080x1350.jpg",
+    "size": 186053,
+    "sha256": "c323bad6a6890b9a3c3befc3b2533cffee42a9e6670b66ea63e9db93b0073512"
+  },
+  {
+    "path": "02_Social/L3_Enterprise_Instagram_Portrait_1080x1350.jpg",
+    "size": 185619,
+    "sha256": "da9a4130f3d19f442a26523f2aee3b43aebc13b35d7e9eea4f759202677cf31a"
+  },
+  {
+    "path": "02_Social/Linux_Applications_Instagram_Portrait_1080x1350.jpg",
+    "size": 194200,
+    "sha256": "8328fd737d337b99ea57c0d874f27c4e1e12b28dd3933bb98848abebf37acfba"
+  },
+  {
+    "path": "02_Social/Instagram_Story_1080x1920.jpg",
+    "size": 264186,
+    "sha256": "41c97683b5e1107a55104728f281284f508e9f2ad344edac6bf07dd36977b135"
+  },
+  {
+    "path": "02_Social/GitHub_Banner_1500x500.jpg",
+    "size": 116736,
+    "sha256": "d13392c9a8921ee517305a324fce5b9f4072043032c18efdebca217984cf7073"
+  },
+  {
+    "path": "02_Social/Commerce_Instagram_Portrait_1080x1350.jpg",
+    "size": 203226,
+    "sha256": "92a855c56ebdced521e2a95289fdd6803455cbffc82bdcc7bb1cfbcec2657966"
+  },
+  {
+    "path": "02_Social/Luxury_Technology_Instagram_Portrait_1080x1350.jpg",
+    "size": 195182,
+    "sha256": "93c4dc78c1c4eaeae6fa07ba129c441aee44d289361a80d1a2c2d98ecd521bf6"
+  },
+  {
+    "path": "02_Social/Website_Hero_1920x1080.jpg",
+    "size": 257778,
+    "sha256": "db276d523eb0eff9570b398e5326f310b94f996a85aaef366ad4052b47e49626"
+  },
+  {
+    "path": "02_Social/L3_Escalation_Social_Square_1080x1080.jpg",
+    "size": 176566,
+    "sha256": "6063c037d3105ea6d973edf74ea20bb8ac212e114894bb44516269b8bf311936"
+  },
+  {
+    "path": "02_Social/Video_Thumbnail_1920x1080.jpg",
+    "size": 257778,
+    "sha256": "db276d523eb0eff9570b398e5326f310b94f996a85aaef366ad4052b47e49626"
+  },
+  {
+    "path": "02_Social/Product_Instagram_Portrait_1080x1350.jpg",
+    "size": 182187,
+    "sha256": "7f18fc7a6f266326b3da0b0fadd259cabfd11171580b5f17347b98051b8fb169"
+  },
+  {
+    "path": "02_Social/Commerce_Social_Square_1080x1080.jpg",
+    "size": 192714,
+    "sha256": "456586c7f4ca77b0c92fa6bbc24ff25981e3a43c28fe2d848339d4df44bfdb5d"
+  },
+  {
+    "path": "02_Social/Luxury_Digital_Social_Square_1080x1080.jpg",
+    "size": 184812,
+    "sha256": "e8445d9cec05c323fd271a53f79e19cb5678a44f750cdc23b8d9cdefccba336e"
+  },
+  {
+    "path": "02_Social/AWS_Cloud_Instagram_Portrait_1080x1350.jpg",
+    "size": 182601,
+    "sha256": "d0e69af447f421236fd62536b3824602f95aa5473369111e0d80d0c2a64d3294"
+  },
+  {
+    "path": "02_Social/Database_Instagram_Portrait_1080x1350.jpg",
+    "size": 181881,
+    "sha256": "a9a2f65ada5f677194e7c2062488355de1f60f3f2edf7a3344501ce0a02e79a9"
+  },
+  {
+    "path": "02_Social/Linux_Applications_Social_Square_1080x1080.jpg",
+    "size": 183541,
+    "sha256": "6ebaa0f9aa603489fb0caf01f25f34b78ebb9b89835d14cceb378b8cd54eb291"
+  },
+  {
+    "path": "02_Social/Linux_Engineer_Social_Square_1080x1080.jpg",
+    "size": 173280,
+    "sha256": "97a4bc1a853c0bea7d3efac5e74744267a615ea1d8ed38e1a90ad6a8a7352703"
+  },
+  {
+    "path": "02_Social/LinkedIn_Cover_1584x396.jpg",
+    "size": 91673,
+    "sha256": "8b0a3d95c19aacba764ee1805d4da1e6ec3f3858caa5b79ed10171d0a8c1e8c9"
+  },
+  {
+    "path": "02_Social/Technical_Account_Social_Square_1080x1080.jpg",
+    "size": 182588,
+    "sha256": "831e67f3c8c3ae2b8f5e75722e5903910493135ec5ebac98ea8611610fabb9ec"
+  },
+  {
+    "path": "02_Social/Managed_Applications_Instagram_Portrait_1080x1350.jpg",
+    "size": 194750,
+    "sha256": "b0b76b0e0c3449706fd0a3f96d1b4639946d2799ab3e062601cf7ae15215e940"
+  },
+  {
+    "path": "02_Social/Product_Social_Square_1080x1080.jpg",
+    "size": 169547,
+    "sha256": "b18f5cd4a2bb65e8eede53de334c5ba399c88ff755f7fb8aab96e1c6d8cf6344"
+  },
+  {
+    "path": "02_Social/Luxury_Digital_Instagram_Portrait_1080x1350.jpg",
+    "size": 197886,
+    "sha256": "7892e09c6c501c877fb428c510fc67b35ede8d32dafdfa165a1685a1dd5f5377"
+  },
+  {
+    "path": "02_Social/L3_Escalation_Instagram_Portrait_1080x1350.jpg",
+    "size": 189507,
+    "sha256": "5ae6e7fadac5c3bfca60309bbbe9f9e048fb24e69590e1b208c090b6551e4042"
+  },
+  {
+    "path": "02_Social/Luxury_Technology_Social_Square_1080x1080.jpg",
+    "size": 181756,
+    "sha256": "35de64ccf4f2d66a007890dd9150dfaab47286fd3daeaa8f47c359f664e96ab3"
+  },
+  {
+    "path": "00_START_HERE/Portfolio_Link_Directory.json",
+    "size": 12199,
+    "sha256": "a570005749cf8a20a6b96293072f1ccd9dc49a3474ee63b5ae22c65a16eaf58a"
+  },
+  {
+    "path": "00_START_HERE/QUICK_START.md",
+    "size": 358,
+    "sha256": "57e39d7781691b08bc4ee89f7fc0055b51f8a74f14b414955ab7c30a55b6e676"
+  },
+  {
+    "path": "00_START_HERE/Portfolio_Link_Directory.csv",
+    "size": 9178,
+    "sha256": "f23f4a0df48d1d0a90213eb24e651851a5d8f7df1d5b354fb7b7c24030528062"
+  },
+  {
+    "path": "19_QR_Codes/Portfolio_QR.png",
+    "size": 3134,
+    "sha256": "fd3e0248cd328d8b4441058a01976effd8286af807b1f008ba01201c6c1b996d"
+  },
+  {
+    "path": "19_QR_Codes/ATS_Titles_QR.png",
+    "size": 4715,
+    "sha256": "180e647b3c02513d7696107c98528fb1c695aed96c59d9615d8d6a54cb9c3716"
+  },
+  {
+    "path": "04_Flyers_Posters/Linux_Applications_Print_Poster_1800x2400.jpg",
+    "size": 554432,
+    "sha256": "75bc6a743599eb82fed4350f204445b9274e0df68418f2851d109db2554da5de"
+  },
+  {
+    "path": "04_Flyers_Posters/Linux_Engineer_Print_Poster_1800x2400.jpg",
+    "size": 524412,
+    "sha256": "d98eebac503e36af420ae71e6078037a9adb564752080538b5b853cc09b23f99"
+  },
+  {
+    "path": "04_Flyers_Posters/Database_Print_Poster_1800x2400.jpg",
+    "size": 513441,
+    "sha256": "8cf3ba948d77d9b8c60219d64a8996b517b8ff40efea431f7a25af66a87a027f"
+  },
+  {
+    "path": "04_Flyers_Posters/Managed_Applications_Print_Poster_1800x2400.jpg",
+    "size": 556435,
+    "sha256": "bce99a9f1a967e34de6b247f7c0757d198bcdb3082949081b38f03c3c65b2f3d"
+  },
+  {
+    "path": "04_Flyers_Posters/Luxury_Technology_Print_Poster_1800x2400.jpg",
+    "size": 538267,
+    "sha256": "9fad2c54a8c3739cac2c41527f91a8f5e0329bf3804ff80752737daff560a635"
+  },
+  {
+    "path": "04_Flyers_Posters/Technical_Account_Print_Poster_1800x2400.jpg",
+    "size": 535626,
+    "sha256": "0f6cbd920163a12f07cf4c51bd12936be1dc40c86c36278ec197d10584b6a810"
+  },
+  {
+    "path": "04_Flyers_Posters/Luxury_Digital_Print_Poster_1800x2400.jpg",
+    "size": 542338,
+    "sha256": "9fee6bf92b0887d30a8b3efe3042ce7a46ec1c3ef8cfbbf6f7a91dc25e33f052"
+  },
+  {
+    "path": "04_Flyers_Posters/L3_Enterprise_Print_Poster_1800x2400.jpg",
+    "size": 524184,
+    "sha256": "ac6b9dd49de929e442c9d590d1ea86474870dce32de4db76d28bb84f8666ff64"
+  },
+  {
+    "path": "04_Flyers_Posters/Product_Print_Poster_1800x2400.jpg",
+    "size": 516165,
+    "sha256": "37eb38d8342b50ad1deaf603bcb262bb339224d7fd2019a1bda6142d3215f590"
+  },
+  {
+    "path": "04_Flyers_Posters/Commerce_Print_Poster_1800x2400.jpg",
+    "size": 554554,
+    "sha256": "7247c8f8c981cc9c2324c036e55e42a8c8235c65b5e29305b373cc31970cb5e0"
+  },
+  {
+    "path": "04_Flyers_Posters/AWS_Cloud_Print_Poster_1800x2400.jpg",
+    "size": 519406,
+    "sha256": "16d3846738ad759c992d9695c3c68fe7ea931462b454df8f228a820c3b9fe7c8"
+  },
+  {
+    "path": "04_Flyers_Posters/L3_Escalation_Print_Poster_1800x2400.jpg",
+    "size": 531011,
+    "sha256": "334f589e08f84b16ae7f41b3957d3211033dc0966e7793fd8b792def70ea7ab8"
+  },
+  {
+    "path": "18_Repository_Config/.gitignore",
+    "size": 40,
+    "sha256": "fd2ffd5eaf00ec31bd52dc262865833c01f3c7be611175522c5b68f909485c99"
+  },
+  {
+    "path": "18_Repository_Config/LICENSE-ASSETS.md",
+    "size": 379,
+    "sha256": "e2f41c6dc373b17a9956698b4372f9a43b2e5b22087ece62db647968cd85db7d"
+  },
+  {
+    "path": "18_Repository_Config/CONTRIBUTING.md",
+    "size": 254,
+    "sha256": "514cc87d332711ee00150149172cc07c5139fbaf50f2b163967fa4082e3d097f"
+  },
+  {
+    "path": "17_Swatches/Brand_Color_Swatch_Sheet.png",
+    "size": 29466,
+    "sha256": "c1011974cc8e5729af8f35b19cceabcb1164920b9ae520e4b2db9a8a8f50abec"
+  },
+  {
+    "path": "07_Presentation/Linux_Applications_Presentation_Slide_1920x1080.jpg",
+    "size": 287251,
+    "sha256": "b8cdf295f83dd98b1e5d224a240acb482b06ae52db89a9858d17c318e449cf79"
+  },
+  {
+    "path": "07_Presentation/AWS_Cloud_Presentation_Slide_1920x1080.jpg",
+    "size": 263501,
+    "sha256": "121ae88d73d71997f72395092e6f093c101e0f55f23b723a4e8ed081cd355575"
+  },
+  {
+    "path": "07_Presentation/Managed_Applications_Presentation_Slide_1920x1080.jpg",
+    "size": 288770,
+    "sha256": "a02e25ea3c3620f8f2454fa368ad19eacdeb24558becb2e6669beba8d502012a"
+  },
+  {
+    "path": "07_Presentation/Commerce_Presentation_Slide_1920x1080.jpg",
+    "size": 289276,
+    "sha256": "f8f1b268c948102fca69f67292855e08a7a348b06ea3540915ba2c4d73e18984"
+  },
+  {
+    "path": "07_Presentation/Linux_Engineer_Presentation_Slide_1920x1080.jpg",
+    "size": 266662,
+    "sha256": "5ba880ca3ee22cb59a919f4f4773f4a7c21e5076f539bfa5fa51dd7edf7fd0b4"
+  },
+  {
+    "path": "07_Presentation/L3_Enterprise_Presentation_Slide_1920x1080.jpg",
+    "size": 266688,
+    "sha256": "53ebe8d28a8fd1d1276e3899db31ac3d120d50dd728f7a614dd57818c29ee978"
+  },
+  {
+    "path": "07_Presentation/Technical_Account_Presentation_Slide_1920x1080.jpg",
+    "size": 275203,
+    "sha256": "c26e73c40672cb97a046563b4c0ad63ce67bfe6dbbfbbd1a9fd032856da2ea64"
+  },
+  {
+    "path": "07_Presentation/L3_Escalation_Presentation_Slide_1920x1080.jpg",
+    "size": 273238,
+    "sha256": "6ac27ca63a77c36a959dcd40130a6aef33cd3ffd84d7cb951dbcc500b3e94558"
+  },
+  {
+    "path": "07_Presentation/Luxury_Digital_Presentation_Slide_1920x1080.jpg",
+    "size": 279511,
+    "sha256": "0e432cbc778ef5315a5cd81e218dbf02e5fd5d3f4efb2e6f13e7015f8b567480"
+  },
+  {
+    "path": "07_Presentation/Luxury_Technology_Presentation_Slide_1920x1080.jpg",
+    "size": 275483,
+    "sha256": "49512a69e56a98dbd100d2a7c8f4ef7062092a9d7442c236c18ef4247b2e738a"
+  },
+  {
+    "path": "07_Presentation/Product_Presentation_Slide_1920x1080.jpg",
+    "size": 260318,
+    "sha256": "92673781a0f2983c57583eb848bd2708fae52c85cc902d47f2ef3dd33fcd2bd8"
+  },
+  {
+    "path": "07_Presentation/Database_Presentation_Slide_1920x1080.jpg",
+    "size": 257752,
+    "sha256": "7f1fa941a972eebe4bbc2b2727421bdeb216e46b96b020c686f3d4b103b42d48"
+  },
+  {
+    "path": "14_Design_Tokens/brand.css",
+    "size": 945,
+    "sha256": "98e353c2b8d7fc8baa5c0e025231feb0920469789496b07befd371ec49358c84"
+  },
+  {
+    "path": "14_Design_Tokens/tokens.json",
+    "size": 667,
+    "sha256": "c876988d6cfc67ce832a0f72fce6927a6c7d4cb92f57e7a1ce5a860c0654622a"
+  },
+  {
+    "path": "14_Design_Tokens/figma-color-import.csv",
+    "size": 148,
+    "sha256": "d762cdd56e716418025a3ee3c4cd0496024d0c1a54a00c359330abbe6a24a5fe"
+  },
+  {
+    "path": "14_Design_Tokens/typography.md",
+    "size": 271,
+    "sha256": "92a6965b638ee2f2191733810318dccf2fdd33d74aafe698d98b8235d368b515"
+  },
+  {
+    "path": "14_Design_Tokens/tailwind-theme.json",
+    "size": 428,
+    "sha256": "e53aa53f1ab415a47e73f37b0552518d9e280f541411185b78832804c2dd6080"
+  },
+  {
+    "path": "05_Stationery/US_Letterhead_2550x3300.jpg",
+    "size": 820426,
+    "sha256": "1fb4421188b7bf2cf712c312aea968eb20b1ef670f3334ecbc07c6df642cbdfb"
+  },
+  {
+    "path": "09_Brand_Guidelines/Brand_Standards.md",
+    "size": 1182,
+    "sha256": "58093b924c32dbc88f484177984b9ba21422a2d7ce14e4a369b74b88fda72ff2"
+  },
+  {
+    "path": "06_Web/index.html",
+    "size": 1703,
+    "sha256": "760a2511b758051771cc867a75eb32f5367e4300aff8b9d1982e90126ca9cad8"
+  }
+]
